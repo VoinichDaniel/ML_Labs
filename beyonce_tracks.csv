@@ -1,0 +1,337 @@
+artist_name,track_name,album_name,is_explicit,genres,release_date,track_id,danceability,valence,energy,loudness,acousticness,instrumentalness,liveness,speechiness,key,tempo,mode,duration_ms,time_signature
+Beyoncé,I'M THAT GIRL,RENAISSANCE,True,"pop, r&b",2022-07-29,1MpCaOeUWhox2Fgigbe1cL,0.554,0.136,0.535,-8.959,0.0616,1.32e-05,0.124,0.186,5,105.865,0,208014,4
+Beyoncé,COZY,RENAISSANCE,True,"pop, r&b",2022-07-29,0mKGwFMHzTprtS2vpR3b6s,0.556,0.367,0.63,-8.15,0.000828,0.00468,0.155,0.102,7,149.147,1,210372,5
+Beyoncé,ALIEN SUPERSTAR,RENAISSANCE,True,"pop, r&b",2022-07-29,1Hohk6AufHZOrrhMXZppax,0.545,0.464,0.641,-6.398,0.00453,6.59e-05,0.171,0.0998,10,121.892,0,215460,4
+Beyoncé,CUFF IT,RENAISSANCE,True,"pop, r&b",2022-07-29,1xzi1Jcr7mEi9K2RfzLOqS,0.78,0.642,0.689,-5.668,0.0368,9.69e-06,0.0698,0.141,7,115.042,1,225389,4
+"Beyoncé, BEAM",ENERGY (feat. Beam),RENAISSANCE,False,"pop, r&b",2022-07-29,0314PeD1sQNonfVWix3B2K,0.903,0.587,0.519,-9.151,0.281,0.000106,0.155,0.26,1,114.991,1,116727,4
+Beyoncé,BREAK MY SOUL,RENAISSANCE,False,"pop, r&b",2022-07-29,5pyoxDZ1PX0KxBxiRVxA4U,0.693,0.864,0.887,-5.039,0.0581,2.71e-06,0.27,0.0795,1,114.942,0,278282,4
+Beyoncé,CHURCH GIRL,RENAISSANCE,True,"pop, r&b",2022-07-29,2mqTtvbKxH7SoEQ2oGAnsA,0.792,0.22,0.919,-5.688,0.0381,5.1e-06,0.368,0.276,2,92.028,1,224473,4
+Beyoncé,PLASTIC OFF THE SOFA,RENAISSANCE,False,"pop, r&b",2022-07-29,6ufcuVInt0ocHrUimDjGlb,0.618,0.305,0.712,-8.246,0.14,4.53e-06,0.575,0.114,1,97.057,1,254319,4
+Beyoncé,VIRGO'S GROOVE,RENAISSANCE,True,"pop, r&b",2022-07-29,0Fl4eWzVaMUOdXcOrj6F1q,0.683,0.598,0.85,-5.042,0.0781,1.09e-06,0.741,0.0699,11,107.988,0,368758,4
+"Beyoncé, Grace Jones, Tems",MOVE (feat. Grace Jones & Tems),RENAISSANCE,False,"pop, r&b",2022-07-29,5YLGlPYkZBDXieMwzVve7g,0.876,0.809,0.628,-6.595,0.0165,0.0339,0.0938,0.0935,1,118.028,1,203383,4
+Beyoncé,HEATED,RENAISSANCE,True,"pop, r&b",2022-07-29,1w7cgGZR86yWz1pA2puVJD,0.785,0.496,0.732,-5.724,0.0636,0.000807,0.265,0.164,1,110.952,1,260771,4
+Beyoncé,THIQUE,RENAISSANCE,True,"pop, r&b",2022-07-29,1LCm0lFnEsxR2oPqyHLGX9,0.823,0.537,0.536,-10.123,0.0616,0.0143,0.326,0.319,5,128.955,0,244792,4
+Beyoncé,ALL UP IN YOUR MIND,RENAISSANCE,True,"pop, r&b",2022-07-29,3k4CoiIQXiNBrwrmbBMDxj,0.744,0.0805,0.577,-7.228,0.0672,3.06e-06,0.178,0.0631,9,135.869,1,169820,4
+Beyoncé,AMERICA HAS A PROBLEM,RENAISSANCE,True,"pop, r&b",2022-07-29,2XMAWynSTIst5KmLSv0Npf,0.789,0.108,0.614,-6.491,0.00348,0.00152,0.283,0.0579,1,126.035,1,198898,4
+Beyoncé,PURE/HONEY,RENAISSANCE,True,"pop, r&b",2022-07-29,4DByEumlGTZKSzuVEZ35eo,0.857,0.453,0.558,-7.888,0.0122,4.8e-05,0.288,0.134,1,123.973,1,288255,4
+Beyoncé,SUMMER RENAISSANCE,RENAISSANCE,True,"pop, r&b",2022-07-29,3HyR1j49TY5ACP2lseF1jx,0.674,0.208,0.625,-9.593,0.0843,0.0015,0.11,0.0514,1,120.004,1,273998,4
+Beyoncé,BIGGER,The Lion King: The Gift [Deluxe Edition],False,"pop, r&b",2020-07-31,0gdOcxvPU37ADE7vPkgQsv,0.509,0.181,0.36,-8.2,0.633,0.0,0.13,0.0361,5,129.624,0,226361,4
+Beyoncé,FIND YOUR WAY BACK,The Lion King: The Gift [Deluxe Edition],False,"pop, r&b",2020-07-31,0Ae8EusoCw7lIkpDycUHYl,0.783,0.623,0.693,-6.747,0.197,0.0274,0.0768,0.174,4,119.063,0,162438,4
+"Beyoncé, Kendrick Lamar",NILE,The Lion King: The Gift [Deluxe Edition],False,"pop, r&b",2020-07-31,7wD8R6QWYJbp6eWrgrNkUH,0.554,0.348,0.45,-9.454,0.731,0.0,0.339,0.182,8,87.047,0,107463,4
+"Beyoncé, JAY-Z, Childish Gambino, Oumou Sangaré",MOOD 4 EVA (feat. Oumou Sangaré),The Lion King: The Gift [Deluxe Edition],False,"pop, r&b",2020-07-31,6tbkOI2yzodPd7FsYcz5D3,0.611,0.718,0.723,-6.199,0.12,0.0,0.322,0.369,7,105.758,1,272464,4
+"Beyoncé, Shatta Wale, Major Lazer",ALREADY,The Lion King: The Gift [Deluxe Edition],False,"pop, r&b",2020-07-31,1TSinFFcDJJzR6ErO81Y3c,0.671,0.543,0.755,-5.831,0.0876,0.0,0.429,0.0683,2,67.332,0,223422,3
+Beyoncé,OTHERSIDE,The Lion King: The Gift [Deluxe Edition],False,"pop, r&b",2020-07-31,15PJ40rcij5eTMSs71uRlq,0.33,0.4,0.244,-9.508,0.94,0.00466,0.0969,0.0339,3,136.344,1,220232,4
+Beyoncé,"SPIRIT - From Disney's ""The Lion King""",The Lion King: The Gift [Deluxe Edition],False,"pop, r&b",2020-07-31,2Zlw9b4RYv2jFxupJCEoN2,0.447,0.0497,0.436,-8.119,0.00971,0.0,0.0986,0.0389,10,80.856,1,277071,4
+Beyoncé,BLACK PARADE - Extended Version,The Lion King: The Gift [Deluxe Edition],True,"pop, r&b",2020-07-31,16NfpiFEck1VUNP1rbmWaH,0.807,0.0541,0.544,-5.875,0.00333,1.67e-05,0.146,0.0409,1,120.006,1,316750,4
+"Beyoncé, Melo-X",FIND YOUR WAY BACK - MELO-X Remix,The Lion King: The Gift [Deluxe Edition],False,"pop, r&b",2020-07-31,1g0k1bFcLKyIrdsdUkF3eW,0.777,0.195,0.588,-9.759,0.0227,0.0545,0.267,0.0756,7,119.109,1,216339,4
+Beyoncé,BLACK PARADE,The Lion King: The Gift [Deluxe Edition],True,"pop, r&b",2020-07-31,1TeDbA2Hfy14sEjoUvZ8Pa,0.824,0.0611,0.555,-5.817,0.00337,6.42e-06,0.217,0.05,1,120.002,1,281273,4
+Beyoncé,BIGGER,The Lion King: The Gift,False,"pop, r&b",2019-07-19,4R2KJOgEUP2qO3re9BwIhs,0.484,0.201,0.363,-8.094,0.645,0.0,0.125,0.0368,5,127.822,0,226479,4
+Beyoncé,FIND YOUR WAY BACK,The Lion King: The Gift,False,"pop, r&b",2019-07-19,65kk9CAAqFI3LWBEhUwVqd,0.672,0.642,0.696,-6.693,0.2,0.0275,0.0736,0.177,4,118.742,0,162354,4
+"Beyoncé, Kendrick Lamar",NILE,The Lion King: The Gift,False,"pop, r&b",2019-07-19,0lboDHM9hSR5j5CFlWDR9k,0.484,0.342,0.457,-9.458,0.738,0.0,0.536,0.204,8,83.493,0,107205,4
+"Beyoncé, JAY-Z, Childish Gambino, Oumou Sangaré",MOOD 4 EVA (feat. Oumou Sangaré),The Lion King: The Gift,False,"pop, r&b",2019-07-19,7oqftogUN82Q7VNy2TmTJW,0.608,0.709,0.709,-6.175,0.119,0.0,0.337,0.374,7,105.742,1,272069,4
+"Beyoncé, Shatta Wale, Major Lazer",ALREADY,The Lion King: The Gift,False,"pop, r&b",2019-07-19,6tgEc2O1uFHcZDKPoo6PC8,0.647,0.548,0.732,-5.846,0.0846,0.0,0.597,0.0891,2,67.295,1,222529,3
+Beyoncé,OTHERSIDE,The Lion King: The Gift,False,"pop, r&b",2019-07-19,1nywz2hyM3E46PxLgscU9j,0.258,0.369,0.248,-9.507,0.944,0.00365,0.0967,0.0343,3,80.187,1,219992,5
+Beyoncé,"SPIRIT - From Disney's ""The Lion King""",The Lion King: The Gift,False,"pop, r&b",2019-07-19,6ucmgsair6pvRYfwgvI6e0,0.238,0.0447,0.435,-8.096,0.00956,0.0,0.0981,0.0497,5,78.797,1,277030,4
+Beyoncé,Welcome - Homecoming Live,HOMECOMING: THE LIVE ALBUM,False,"pop, r&b",2019-04-17,7Hz87DF2VCuSVS2iO1z0Nr,0.6,0.123,0.831,-12.294,0.143,0.576,0.7,0.378,7,170.133,1,196474,4
+Beyoncé,Crazy In Love - Homecoming Live,HOMECOMING: THE LIVE ALBUM,True,"pop, r&b",2019-04-17,10OaEuICuFoKLq48NoMblA,0.401,0.402,0.769,-8.316,0.000263,0.000459,0.327,0.158,2,99.252,1,167348,4
+Beyoncé,Freedom - Homecoming Live,HOMECOMING: THE LIVE ALBUM,False,"pop, r&b",2019-04-17,2NTp1e0sRMHiw368rfCGvE,0.486,0.403,0.813,-7.528,0.00174,1.09e-05,0.406,0.114,2,85.161,1,114370,4
+Beyoncé,Lift Ev'ry Voice and Sing - Homecoming Live,HOMECOMING: THE LIVE ALBUM,False,"pop, r&b",2019-04-17,0QRxJvOohS8yiGC1n98uFM,0.201,0.0795,0.409,-13.089,0.124,1.86e-06,0.683,0.0393,2,85.35,1,129117,3
+Beyoncé,Formation - Homecoming Live,HOMECOMING: THE LIVE ALBUM,True,"pop, r&b",2019-04-17,6oHexA34fw1WfswjIEA1hd,0.676,0.419,0.871,-9.134,0.0237,0.0,0.956,0.433,5,121.963,0,262832,4
+Beyoncé,So Much Damn Swag - Interlude - Homecoming Live,HOMECOMING: THE LIVE ALBUM,True,"pop, r&b",2019-04-17,6pLlQE4Ypn9zQBCe16UskF,0.535,0.547,0.338,-27.432,0.994,0.011,0.891,0.883,6,67.709,1,59056,5
+Beyoncé,Sorry - Homecoming Live,HOMECOMING: THE LIVE ALBUM,True,"pop, r&b",2019-04-17,1GWk2MHsycvbyOFaWFiOMk,0.418,0.193,0.728,-11.479,0.00981,0.0,0.966,0.486,7,129.252,1,393524,4
+Beyoncé,Kitty Kat - Homecoming Live,HOMECOMING: THE LIVE ALBUM,False,"pop, r&b",2019-04-17,6YyMbzAUPJLaGcldbEKmXB,0.456,0.488,0.551,-15.779,0.257,1.14e-06,0.73,0.465,5,123.714,1,42306,4
+Beyoncé,Bow Down - Homecoming Live,HOMECOMING: THE LIVE ALBUM,True,"pop, r&b",2019-04-17,5yZEkyUXbyFCHzrQTH5Ssw,0.395,0.377,0.866,-7.544,0.0332,0.0,0.432,0.128,1,141.577,1,87887,4
+Beyoncé,I Been On - Homecoming Live,HOMECOMING: THE LIVE ALBUM,True,"pop, r&b",2019-04-17,76raxY6tmyR6mi9xcWCFk7,0.555,0.14,0.676,-11.151,0.018,0.0463,0.721,0.0763,1,95.174,1,160089,4
+Beyoncé,Drunk in Love - Homecoming Live,HOMECOMING: THE LIVE ALBUM,True,"pop, r&b",2019-04-17,4LzdggfUuKAK5zypoKnueZ,0.325,0.571,0.836,-8.933,0.0197,8.22e-06,0.33,0.283,5,141.306,0,254004,4
+Beyoncé,Diva - Homecoming Live,HOMECOMING: THE LIVE ALBUM,True,"pop, r&b",2019-04-17,7eOG24Nx7j4nI3f9nOZTOi,0.576,0.486,0.845,-7.406,0.0276,0.00029,0.387,0.162,9,145.918,1,165873,4
+Beyoncé,Flawless / Feeling Myself - Homecoming Live,HOMECOMING: THE LIVE ALBUM,True,"pop, r&b",2019-04-17,6ma6Oe9PrzJsckdCebJoFM,0.58,0.444,0.764,-9.321,0.079,2.1e-06,0.776,0.221,8,137.068,1,238294,4
+Beyoncé,Top Off - Homecoming Live,HOMECOMING: THE LIVE ALBUM,True,"pop, r&b",2019-04-17,6GuC3CHgZ9ieTQ97kanZdO,0.599,0.537,0.692,-9.48,0.0298,0.0,0.69,0.224,9,129.816,1,82934,4
+Beyoncé,7/11 - Homecoming Live,HOMECOMING: THE LIVE ALBUM,True,"pop, r&b",2019-04-17,09B7V52vjEWVsSr5f1OfoL,0.587,0.383,0.732,-9.208,0.0158,0.0,0.969,0.18,9,136.084,0,184295,4
+Beyoncé,Bug A Boo Roll Call - Interlude - Homecoming Live,HOMECOMING: THE LIVE ALBUM,False,"pop, r&b",2019-04-17,4SOMdd14MtsvtfzsYtmqcR,0.726,0.436,0.255,-18.138,0.129,1.74e-05,0.0747,0.653,11,90.056,1,117936,4
+Beyoncé,Party - Homecoming Live,HOMECOMING: THE LIVE ALBUM,False,"pop, r&b",2019-04-17,3oDyaLtPpORasVR7atUHIa,0.581,0.384,0.618,-11.11,0.0138,0.147,0.428,0.339,4,149.832,0,228208,4
+Beyoncé,Don't Hurt Yourself - Homecoming Live,HOMECOMING: THE LIVE ALBUM,True,"pop, r&b",2019-04-17,2NbffhNltorifsuY5doB1l,0.384,0.111,0.81,-8.709,0.000959,1.07e-05,0.537,0.124,4,137.696,0,256813,4
+Beyoncé,I Care - Homecoming Live,HOMECOMING: THE LIVE ALBUM,False,"pop, r&b",2019-04-17,62vR9bMq3tP0lfyrMtpujE,0.443,0.184,0.821,-6.96,0.0143,0.0,0.721,0.145,4,88.726,0,248538,4
+Beyoncé,Partition - Homecoming Live,HOMECOMING: THE LIVE ALBUM,True,"pop, r&b",2019-04-17,1XTQkWboabpxxyR7iMKsEJ,0.452,0.104,0.487,-11.767,0.0101,0.0039,0.698,0.0462,0,123.44,1,138526,5
+Beyoncé,Yoncé - Homecoming Live,HOMECOMING: THE LIVE ALBUM,False,"pop, r&b",2019-04-17,6UjGaeKbCidE98bpLgwIym,0.685,0.436,0.628,-12.981,0.0649,0.0,0.31,0.325,9,88.007,0,68352,4
+"Beyoncé, J Balvin, Willy William",Mi Gente - Homecoming Live,HOMECOMING: THE LIVE ALBUM,False,"pop, r&b",2019-04-17,2iGIBnofyVatf7cjtyIGlI,0.667,0.637,0.741,-10.832,0.00232,1.49e-06,0.426,0.0547,7,104.841,1,176718,4
+Beyoncé,Baby Boy - Homecoming Live,HOMECOMING: THE LIVE ALBUM,False,"pop, r&b",2019-04-17,06iMNM7Q9kX93yBKXb7K8H,0.702,0.694,0.817,-8.644,0.00646,0.0,0.467,0.102,1,100.003,1,92162,4
+Beyoncé,"You Don't Love Me (No, No, No) - Homecoming Live",HOMECOMING: THE LIVE ALBUM,False,"pop, r&b",2019-04-17,6u0WV2PHrzRjLO8BtRpme7,0.496,0.554,0.485,-9.339,0.000688,0.0,0.648,0.0299,10,80.108,0,71916,4
+Beyoncé,Hold Up - Homecoming Live,HOMECOMING: THE LIVE ALBUM,False,"pop, r&b",2019-04-17,7oGFmPGaF5txE4cjL4HyR4,0.519,0.922,0.636,-11.539,0.149,1.06e-06,0.672,0.504,0,81.167,1,46475,3
+Beyoncé,Countdown - Homecoming Live,HOMECOMING: THE LIVE ALBUM,False,"pop, r&b",2019-04-17,2k0mXTwotQpZKIOIhGwekv,0.57,0.444,0.805,-9.217,0.00413,0.0,0.557,0.293,0,167.333,1,103235,4
+Beyoncé,Check On It - Homecoming Live,HOMECOMING: THE LIVE ALBUM,False,"pop, r&b",2019-04-17,632ikkYPSHSHA5udZeuKvk,0.519,0.693,0.884,-8.077,0.00294,0.0,0.943,0.369,7,167.346,1,76214,4
+"Beyoncé, JAY-Z",Deja Vu (feat. Jay-Z) - Homecoming Live,HOMECOMING: THE LIVE ALBUM,False,"pop, r&b",2019-04-17,7Id9WVdUZXIK1jchXxvRH3,0.772,0.154,0.684,-8.742,0.00534,2.66e-06,0.7,0.14,6,105.975,1,289790,4
+Beyoncé,The Bzzzz Drumline - Interlude - Homecoming Live,HOMECOMING: THE LIVE ALBUM,False,"pop, r&b",2019-04-17,5IIK4FDTsmQwkNqVuKJgi7,0.555,0.237,0.84,-11.977,0.0335,0.0644,0.373,0.302,1,134.519,1,190104,4
+Beyoncé,Run the World (Girls) - Homecoming Live,HOMECOMING: THE LIVE ALBUM,True,"pop, r&b",2019-04-17,6Ssx5QXWAsjruGKCQwf9Jp,0.663,0.49,0.891,-8.774,0.00269,0.000154,0.778,0.18,5,126.548,0,233376,4
+"Beyoncé, Kelly Rowland, Michelle Williams",Lose My Breath (feat. Kelly Rowland & Michelle Williams) - Homecoming Live,HOMECOMING: THE LIVE ALBUM,False,"pop, r&b",2019-04-17,716IzgeD9yjfCiZuG9aG4i,0.721,0.416,0.892,-8.606,0.0351,0.000212,0.575,0.206,8,118.982,1,90816,4
+"Beyoncé, Kelly Rowland, Michelle Williams",Say My Name (feat. Kelly Rowland & Michelle Williams) - Homecoming Live,HOMECOMING: THE LIVE ALBUM,False,"pop, r&b",2019-04-17,1q0xjWLQOnAbfQa3XzhyYc,0.491,0.303,0.666,-7.338,0.028,0.0,0.503,0.111,5,138.672,0,111769,4
+"Beyoncé, Kelly Rowland, Michelle Williams",Soldier (feat. Kelly Rowland & Michelle Williams) - Homecoming Live,HOMECOMING: THE LIVE ALBUM,False,"pop, r&b",2019-04-17,2PEtWLQmzJuGzQFkkZIdP3,0.472,0.475,0.821,-8.333,0.013,0.0,0.846,0.55,8,155.176,1,131185,4
+Beyoncé,Get Me Bodied - Homecoming Live,HOMECOMING: THE LIVE ALBUM,False,"pop, r&b",2019-04-17,7Bd6JQ2Evmeuw4cPYUtcEz,0.822,0.396,0.935,-7.741,0.011,0.0,0.379,0.345,11,97.018,0,263009,4
+Beyoncé,Single Ladies (Put a Ring on It) - Homecoming Live,HOMECOMING: THE LIVE ALBUM,False,"pop, r&b",2019-04-17,071lw34NhXIV26mskQZ4MB,0.639,0.572,0.93,-6.626,0.00563,0.0,0.956,0.171,6,96.94,0,207209,4
+"Beyoncé, Blue Ivy",Lift Ev'ry Voice and Sing (feat. Blue Ivy) - Blue's Version - Homecoming Live,HOMECOMING: THE LIVE ALBUM,False,"pop, r&b",2019-04-17,7uro2suZC8IiPIcTSiqhRQ,0.564,0.433,0.424,-20.285,0.963,7.37e-06,0.697,0.94,1,97.708,1,102412,5
+Beyoncé,Love On Top - Homecoming Live,HOMECOMING: THE LIVE ALBUM,False,"pop, r&b",2019-04-17,7idYtPogV73zodBoWqvxkf,0.318,0.184,0.855,-8.415,0.0515,0.0,0.897,0.628,7,175.555,1,227216,4
+Beyoncé,Shining (Thank You) - Homecoming Live,HOMECOMING: THE LIVE ALBUM,False,"pop, r&b",2019-04-17,74ADo1aVXYrzDDwwNcENns,0.626,0.475,0.928,-9.326,0.00282,0.000363,0.941,0.124,2,104.912,0,159116,4
+Beyoncé,Before I Let Go - Homecoming Live Bonus Track,HOMECOMING: THE LIVE ALBUM,True,"pop, r&b",2019-04-17,7LikBkHerFGZ58QHVOKp1t,0.71,0.435,0.842,-5.424,0.0686,0.0,0.337,0.0944,6,102.994,0,240777,4
+Beyoncé,I Been On - Homecoming Live Bonus Track,HOMECOMING: THE LIVE ALBUM,True,"pop, r&b",2019-04-17,4M0zSSz4blcDv8g4apuVfJ,0.656,0.196,0.741,-6.413,0.0134,0.000468,0.269,0.0555,5,95.326,0,144661,4
+Beyoncé,Pray You Catch Me,Lemonade,False,"pop, r&b",2016-04-23,7rLDARtJALM7QdiJDMXW7m,0.25,0.0746,0.215,-13.676,0.632,0.0717,0.401,0.037,8,174.824,0,195987,3
+Beyoncé,Hold Up,Lemonade,True,"pop, r&b",2016-04-23,0rzNMzZsubFcXSEh7dnem7,0.524,0.552,0.397,-11.936,0.745,0.0,0.521,0.405,0,80.744,1,221093,4
+"Beyoncé, Jack White",Don't Hurt Yourself (feat. Jack White),Lemonade,True,"pop, r&b",2016-04-23,78eouBKVRyhbSzJwChr6QM,0.614,0.645,0.686,-6.483,0.0105,1.36e-06,0.184,0.21,9,136.537,0,233667,4
+Beyoncé,Sorry,Lemonade,True,"pop, r&b",2016-04-23,0lnIJmgcUpEpe4AZACjayW,0.775,0.356,0.598,-7.274,0.00175,4.44e-06,0.253,0.0535,2,129.988,1,232560,4
+"Beyoncé, The Weeknd",6 Inch (feat. The Weeknd),Lemonade,True,"pop, r&b",2016-04-23,0pxNyJJiL2zZZ5GgJ4JhsQ,0.516,0.324,0.637,-8.832,0.0433,3.89e-06,0.11,0.0632,6,138.011,1,260440,4
+Beyoncé,Daddy Lessons,Lemonade,False,"pop, r&b",2016-04-23,71OvX5NNLrmz7rpq1ANTQn,0.643,0.598,0.503,-8.37,0.273,0.0,0.349,0.216,7,90.886,1,287987,4
+Beyoncé,Love Drought,Lemonade,False,"pop, r&b",2016-04-23,2RQAG0wQt35UzAPEyVJFWN,0.455,0.216,0.535,-10.602,0.0209,0.64,0.126,0.0426,9,157.01,0,237440,4
+Beyoncé,Sandcastles,Lemonade,True,"pop, r&b",2016-04-23,2FNPJWVdGxYhWaotd6rULS,0.33,0.101,0.357,-10.171,0.866,1.76e-05,0.19,0.0348,10,84.119,1,182720,3
+"Beyoncé, James Blake",Forward (feat. James Blake),Lemonade,False,"pop, r&b",2016-04-23,2bOWJIYSbhwg2NMQq1QMYH,0.387,0.0498,0.133,-15.633,0.947,0.0591,0.107,0.0474,7,124.397,0,79200,4
+"Beyoncé, Kendrick Lamar",Freedom (feat. Kendrick Lamar),Lemonade,False,"pop, r&b",2016-04-23,7aBxcRw77817BrkdPChAGY,0.437,0.406,0.803,-6.412,0.0376,0.0,0.683,0.305,2,84.378,1,289760,4
+Beyoncé,All Night,Lemonade,False,"pop, r&b",2016-04-23,7oAuqs6akGnPU3Tb00ZmyM,0.574,0.626,0.573,-7.079,0.392,2.16e-05,0.0933,0.085,11,136.304,1,322000,4
+Beyoncé,Formation,Lemonade,True,"pop, r&b",2016-04-23,6g0Orsxv6glTJCt4cHsRsQ,0.896,0.818,0.621,-6.857,0.00532,0.0,0.196,0.237,5,121.966,0,206080,4
+Beyoncé,Sorry - Original Demo,Lemonade,True,"pop, r&b",2016-04-23,6eR1N0EBHiDkGDzegX99d3,0.546,0.421,0.26,-12.573,0.942,5.09e-06,0.128,0.125,1,155.033,1,204400,4
+Beyoncé,Pretty Hurts,BEYONCÉ [Platinum Edition],False,"pop, r&b",2014-11-24,7lUA4P03AhwAw40JHkdyGr,0.512,0.2,0.624,-6.761,0.00305,0.000172,0.346,0.0509,11,129.932,1,257653,4
+Beyoncé,Haunted,BEYONCÉ [Platinum Edition],True,"pop, r&b",2014-11-24,7cioKB5CHVzk09SOtTyn0T,0.313,0.311,0.533,-9.416,0.103,0.00635,0.507,0.166,1,66.93,0,369040,4
+"Beyoncé, JAY-Z",Drunk in Love (feat. Jay-Z),BEYONCÉ [Platinum Edition],True,"pop, r&b",2014-11-24,6jG2YzhxptolDzLHTGLt7S,0.583,0.399,0.621,-6.902,0.00972,0.00106,0.181,0.0479,5,140.036,0,323480,4
+Beyoncé,Blow,BEYONCÉ [Platinum Edition],False,"pop, r&b",2014-11-24,6wwrYruEgWlowPDZMq5116,0.875,0.776,0.434,-7.683,0.242,0.00147,0.233,0.091,0,120.067,1,309720,4
+Beyoncé,No Angel,BEYONCÉ [Platinum Edition],False,"pop, r&b",2014-11-24,4DActPOAtak2m8meZeMt3B,0.57,0.509,0.467,-9.152,0.0421,0.00253,0.125,0.171,9,111.58,0,228693,1
+Beyoncé,Partition,BEYONCÉ [Platinum Edition],True,"pop, r&b",2014-11-24,5hgnY0mVcVetszbb85qeDg,0.418,0.172,0.441,-11.522,0.029,0.0707,0.306,0.283,11,175.928,0,319467,4
+Beyoncé,Jealous,BEYONCÉ [Platinum Edition],False,"pop, r&b",2014-11-24,63wKtmUg754umO8SglEL79,0.452,0.227,0.54,-10.087,0.122,0.00462,0.0882,0.229,8,133.774,1,184013,4
+Beyoncé,Rocket,BEYONCÉ [Platinum Edition],True,"pop, r&b",2014-11-24,0755vnFQZLSgHHWbR1qCjY,0.495,0.563,0.403,-9.732,0.499,0.0,0.7,0.299,1,140.365,1,391907,3
+"Beyoncé, Drake",Mine (feat. Drake),BEYONCÉ [Platinum Edition],True,"pop, r&b",2014-11-24,63FrXif0Pdu4NAPvTh87mw,0.557,0.0996,0.428,-11.306,0.0673,0.0019,0.144,0.136,5,103.009,1,378600,4
+Beyoncé,XO,BEYONCÉ [Platinum Edition],False,"pop, r&b",2014-11-24,40xhyfAPDoMtv494MfPevP,0.47,0.216,0.793,-8.929,0.164,1.31e-06,0.313,0.26,0,170.1,1,215947,4
+"Beyoncé, Chimamanda Ngozi Adichie",***Flawless (feat. Chimamanda Ngozi Adichie),BEYONCÉ [Platinum Edition],True,"pop, r&b",2014-11-24,7tefUew2RUuSAqHyegMoY1,0.476,0.353,0.688,-7.799,0.0953,0.000648,0.438,0.245,1,140.555,1,250960,4
+"Beyoncé, Frank Ocean",Superpower (feat. Frank Ocean),BEYONCÉ [Platinum Edition],False,"pop, r&b",2014-11-24,49sXkAcR5LvOrtq5Qcn5cf,0.525,0.185,0.334,-11.54,0.641,0.0,0.114,0.0686,0,80.307,1,276560,3
+Beyoncé,Heaven,BEYONCÉ [Platinum Edition],False,"pop, r&b",2014-11-24,0fYwfZcgijhIOyXn0RVPwq,0.346,0.0388,0.188,-12.688,0.573,0.0166,0.108,0.0327,6,103.265,0,230893,4
+"Beyoncé, Blue Ivy",Blue (feat. Blue Ivy),BEYONCÉ [Platinum Edition],False,"pop, r&b",2014-11-24,2LjkT4gu5wO4JdeEYl0fMY,0.499,0.0643,0.434,-10.14,0.541,6.58e-05,0.119,0.0608,6,90.322,1,266920,4
+Beyoncé,7/11,BEYONCÉ [Platinum Edition],False,"pop, r&b",2014-11-24,02M6vucOvmRfMxTXDUwRXu,0.747,0.56,0.705,-5.137,0.0128,0.0,0.126,0.126,9,136.024,0,213507,4
+"Beyoncé, Nicki Minaj",Flawless Remix (feat. Nicki Minaj),BEYONCÉ [Platinum Edition],True,"pop, r&b",2014-11-24,0zVMzJ37VQNFUNvdxxat2E,0.64,0.457,0.659,-7.273,0.241,8.33e-06,0.484,0.215,8,136.804,1,234413,4
+"Beyoncé, JAY-Z, Kanye West",Drunk in Love Remix (feat. Jay-Z & Kanye West),BEYONCÉ [Platinum Edition],True,"pop, r&b",2014-11-24,0FZmAvivvifvtN3pZScbw1,0.508,0.476,0.763,-3.58,0.16,0.0,0.118,0.0516,8,139.653,1,395987,4
+Beyoncé,Ring Off,BEYONCÉ [Platinum Edition],False,"pop, r&b",2014-11-24,2Z9Yid1RueNo2sHS9x4gdh,0.732,0.709,0.763,-6.732,0.0273,0.0,0.33,0.0729,0,98.011,1,180187,4
+"Beyoncé, Pharrell Williams",Blow Remix (feat. Pharrell Williams),BEYONCÉ [Platinum Edition],False,"pop, r&b",2014-11-24,0GjDYSp1bNyjggwPadwlyf,0.872,0.763,0.445,-7.631,0.272,0.00119,0.345,0.0936,2,120.029,0,309747,4
+"Beyoncé, Mr. Vegas, Clifford Smith, Cleveland Browne, Danny Browne",Standing on the Sun Remix (feat. Mr. Vegas),BEYONCÉ [Platinum Edition],False,"pop, r&b",2014-11-24,7jpSvCrFev9EBb5RSmoRTa,0.664,0.409,0.808,-6.477,0.0225,2.44e-05,0.259,0.0726,0,98.044,1,273480,4
+Beyoncé,Love On Top,4,False,"pop, r&b",2011-06-24,1z6WtY7X4HQJvzxC4UgkSf,0.652,0.651,0.749,-5.248,0.0848,0.0,0.604,0.0886,0,94.103,1,267413,4
+"Beyoncé, André 3000",Party (feat. André 3000),4,False,"pop, r&b",2011-06-24,42qh86p7TLXyumxSHn65kc,0.648,0.719,0.593,-6.267,0.0188,0.0,0.169,0.0509,10,160.984,1,245480,4
+Beyoncé,Schoolin' Life,4,False,"pop, r&b",2011-06-24,6JoIs4XLvBgjZOkKnyuPPv,0.799,0.551,0.715,-5.481,0.0289,0.0,0.339,0.0819,4,124.04,1,293133,4
+Beyoncé,Countdown,4,False,"pop, r&b",2011-06-24,3axkNosdVQLZiq1HakuGhc,0.665,0.699,0.787,-5.73,0.31,0.0,0.219,0.151,5,167.351,1,212147,4
+Beyoncé,I Miss You,4,False,"pop, r&b",2011-06-24,6Vv9wMxIc6OKRluQefy441,0.718,0.836,0.523,-7.181,0.352,0.00304,0.0909,0.198,6,167.963,1,179067,4
+Beyoncé,Dance for You,4,False,"pop, r&b",2011-06-24,7cvkXf3AwPGT041PyOi5VX,0.621,0.484,0.781,-6.062,0.0321,0.0,0.173,0.0636,2,110.002,1,377467,4
+Beyoncé,I Care,4,False,"pop, r&b",2011-06-24,76KTeba6u3LfBL4EsCZaTe,0.371,0.231,0.841,-6.021,0.287,4.67e-06,0.135,0.297,0,85.656,1,239467,4
+Beyoncé,Rather Die Young,4,False,"pop, r&b",2011-06-24,7msV2z3y899aSVTithAkFn,0.628,0.45,0.666,-6.626,0.158,0.00258,0.177,0.111,4,72.032,1,222480,4
+Beyoncé,1+1,4,False,"pop, r&b",2011-06-24,1pzJboOZaDNwshBnOlNh3a,0.365,0.268,0.382,-7.344,0.382,5.08e-06,0.0661,0.0295,6,148.363,1,273880,3
+Beyoncé,End of Time,4,False,"pop, r&b",2011-06-24,3FPUFltTjg6ClUL2wr9ux6,0.716,0.786,0.811,-7.503,0.0328,0.000517,0.0649,0.212,6,118.005,0,223987,4
+Beyoncé,Run the World (Girls),4,False,"pop, r&b",2011-06-24,1uXbwHHfgsXcUKfSZw5ZJ0,0.732,0.759,0.899,-4.237,0.00496,4.64e-05,0.372,0.143,0,127.091,1,236093,4
+Beyoncé,Best Thing I Never Had,4,False,"pop, r&b",2011-06-24,3lBRNqXjPp2j3JMTCXDTNO,0.546,0.298,0.649,-4.056,0.143,1.55e-05,0.0894,0.0324,6,99.05,1,253747,4
+Beyoncé,Start Over,4,False,"pop, r&b",2011-06-24,6QFgpUiLoXlmYDjbe0tjyP,0.474,0.399,0.797,-4.541,0.193,6.2e-06,0.322,0.192,6,149.965,0,199107,4
+Beyoncé,I Was Here,4,False,"pop, r&b",2011-06-24,64Tp4KN5U5rtqrasP5a7FH,0.525,0.235,0.627,-6.59,0.431,0.0,0.0927,0.0335,7,111.026,1,239213,3
+Beyoncé,Intro - Live,I Am...World Tour,False,"pop, r&b",2010-11-26,4R6shoat9nBe6KpTCouvox,0.352,0.0852,0.655,-10.571,6.63e-05,0.806,0.659,0.0736,0,148.045,1,71867,4
+Beyoncé,Crazy In Love - Live,I Am...World Tour,False,"pop, r&b",2010-11-26,1DJfcWfj5dSIzksFpnRr3S,0.562,0.268,0.967,-4.919,0.0496,7.37e-05,0.953,0.271,9,99.13,0,323733,4
+Beyoncé,Naughty Girl - Live,I Am...World Tour,False,"pop, r&b",2010-11-26,3ORyn13n4NOuo1Gx8jIPhO,0.591,0.245,0.79,-7.864,0.0488,0.000922,0.417,0.0956,6,99.946,0,154027,4
+Beyoncé,Freakum Dress - Live,I Am...World Tour,False,"pop, r&b",2010-11-26,0FIKess6SMftejiZDw5XhA,0.429,0.184,0.967,-5.08,0.000279,0.00215,0.933,0.309,7,99.027,1,190987,4
+Beyoncé,Get Me Bodied - Live,I Am...World Tour,False,"pop, r&b",2010-11-26,7oLAYmZqSPChQxJLUTqG6D,0.556,0.184,0.945,-5.756,0.141,0.000146,0.347,0.52,3,96.618,1,149627,4
+Beyoncé,Smash Into You - Live,I Am...World Tour,False,"pop, r&b",2010-11-26,4p3yAhuwfXZFrHMbdax5tw,0.524,0.208,0.691,-7.99,0.0196,0.00668,0.939,0.0332,1,94.982,1,231933,4
+Beyoncé,Ave Maria - Live,I Am...World Tour,False,"pop, r&b",2010-11-26,2JZw2tZLsXWkcfiOsiJgPH,0.275,0.0784,0.449,-10.563,0.613,4.25e-05,0.857,0.0335,0,104.838,1,255440,3
+Beyoncé,Broken-Hearted Girl - Live,I Am...World Tour,False,"pop, r&b",2010-11-26,3EL1uxOAV1BFiWd9ZwKOVX,0.297,0.15,0.596,-7.308,0.537,5.85e-06,0.971,0.21,5,169.502,1,192480,4
+Beyoncé,If I Were A Boy / You Oughta Know - Live,I Am...World Tour,False,"pop, r&b",2010-11-26,3IaTbEhNpnXtFNoIOUEmDr,0.306,0.157,0.945,-5.32,0.0131,0.0272,0.892,0.424,6,100.105,1,316773,4
+Beyoncé,Diva - Live,I Am...World Tour,False,"pop, r&b",2010-11-26,1szpCmZZQemziInTY8EXpH,0.601,0.337,0.939,-7.323,0.00252,0.00431,0.289,0.309,11,146.248,0,179893,4
+Beyoncé,Radio - Live,I Am...World Tour,False,"pop, r&b",2010-11-26,76EPVr1eI3zM4S2HZ684Nw,0.509,0.353,0.739,-6.124,0.0577,1.69e-06,0.904,0.287,1,135.995,1,123600,4
+"Beyoncé, Kanye West",Ego (feat. Kanye West),I Am...World Tour,False,"pop, r&b",2010-11-26,7psZtgEwG20HDigY0BLKOx,0.476,0.603,0.844,-7.971,0.367,2.68e-06,0.867,0.659,1,83.132,1,114907,4
+Beyoncé,Hello - Live,I Am...World Tour,False,"pop, r&b",2010-11-26,7uo8Xea7OGqbnWmnhoduhL,0.426,0.534,0.903,-6.175,0.0547,2.4e-06,0.924,0.236,6,129.117,1,217467,4
+Beyoncé,Baby Boy - Live,I Am...World Tour,False,"pop, r&b",2010-11-26,1souRQnZaUmfncdjgUsy1D,0.473,0.217,0.84,-8.271,0.0307,0.0199,0.475,0.313,1,91.13,1,129613,4
+Beyoncé,"You Don't Love Me, No No No - Live",I Am...World Tour,False,"pop, r&b",2010-11-26,3oSIGp7CRv3nulpX1owHVR,0.395,0.314,0.592,-10.841,0.00778,0.0348,0.816,0.0443,10,144.848,1,108627,4
+Beyoncé,Irreplaceable - Live,I Am...World Tour,False,"pop, r&b",2010-11-26,6QNQwlvwsZSVx6ZfxLyYOi,0.304,0.266,0.921,-8.559,0.0346,2.38e-06,0.983,0.79,11,88.515,0,304107,4
+Beyoncé,Check On It - Live,I Am...World Tour,False,"pop, r&b",2010-11-26,6chmIekFMDwd85b4NYhy46,0.399,0.267,0.741,-8.987,0.235,0.0245,0.413,0.484,2,83.213,1,128640,3
+Beyoncé,Bootylicious - Live,I Am...World Tour,False,"pop, r&b",2010-11-26,0Ytf40sbSHd0LMcxm8Yjfm,0.542,0.438,0.878,-8.096,0.0064,0.0,0.859,0.297,1,103.293,1,50773,4
+Beyoncé,Upgrade U - Live,I Am...World Tour,False,"pop, r&b",2010-11-26,3AEhT2SoXzXpP2UpeyAyb5,0.565,0.334,0.807,-7.988,0.00102,0.21,0.971,0.293,7,84.937,1,135867,4
+Beyoncé,Say My Name - Live,I Am...World Tour,False,"pop, r&b",2010-11-26,4dLxRtTl1VVcB7qq1iHzVG,0.503,0.448,0.871,-6.659,0.306,0.0,0.823,0.404,8,137.164,1,139893,4
+Beyoncé,At Last - Live,I Am...World Tour,False,"pop, r&b",2010-11-26,41N6nyybHwTKKES7engoiR,0.143,0.255,0.315,-12.587,0.306,0.00888,0.916,0.0368,2,75.195,0,179960,3
+Beyoncé,"Listen (From the Motion Picture ""Dreamgirls"") - Live",I Am...World Tour,False,"pop, r&b",2010-11-26,4OuVVcw3PV6tg0f7N6bARL,0.358,0.171,0.641,-8.823,0.193,4.55e-05,0.763,0.0752,9,124.061,1,202160,4
+Beyoncé,Single Ladies (Put a Ring on It) - Live,I Am...World Tour,False,"pop, r&b",2010-11-26,0656Ba4hb119dMJkx7zJ3N,0.628,0.198,0.894,-5.448,0.018,3.52e-05,0.922,0.137,11,97.083,0,262920,4
+Beyoncé,Halo - Live,I Am...World Tour,False,"pop, r&b",2010-11-26,2laS6W8SYTUbBJsq6HbYNE,0.261,0.217,0.913,-5.795,0.0352,0.000241,0.863,0.433,1,143.024,1,391893,4
+Beyoncé,Outro - Live,I Am...World Tour,False,"pop, r&b",2010-11-26,5w18AsEMHsvH5ECzYm5lhI,0.326,0.22,0.975,-5.784,0.000703,0.051,0.815,0.233,10,155.075,0,118653,4
+"Beyoncé, Maurice Joshua for Nu Soul Inc.",If I Were a Boy - Maurice Joshua Mojo UK Remix - Main,Above And Beyoncé Dance Mixes,False,"pop, r&b",2009-06-16,3F0kKIk7COCKuI1GF8FORH,0.712,0.885,0.828,-7.108,0.00323,0.115,0.0264,0.0418,1,125.999,1,387080,4
+"Beyoncé, DJ Escape for Escape Productions, Tony Coluccio for Global Media Music",Single Ladies (Put a Ring on It) - DJ Escape & Tony Coluccio Remix - Club Version,Above And Beyoncé Dance Mixes,False,"pop, r&b",2009-06-16,5JBO0K69Vk2a15zEGhz1vg,0.796,0.783,0.92,-5.638,0.00241,0.923,0.0243,0.0873,6,128.005,0,413827,4
+"Beyoncé, Achilles Sparta for Karmatronic Sound Mgmt LLC, Peter Krajczar for Karmatronic Sound Mgmt LLC",Diva - Karmatronic Club Remix,Above And Beyoncé Dance Mixes,False,"pop, r&b",2009-06-16,7rrgYBKsqrluXOfaGhZfEF,0.846,0.622,0.629,-7.355,0.00327,0.00223,0.0655,0.0658,8,131.997,0,305947,4
+"Beyoncé, Dave Audé, Christian on HD Accel at Audacious",Halo - Dave Audé Club Remix,Above And Beyoncé Dance Mixes,False,"pop, r&b",2009-06-16,06oGczLASkQq5PFVhn7v2V,0.802,0.851,0.702,-6.601,0.0147,0.653,0.0162,0.0616,11,128.008,0,533293,4
+Beyoncé,Broken-Hearted Girl - Catalyst Remix,Above And Beyoncé Dance Mixes,False,"pop, r&b",2009-06-16,1gt62xikWxR5hZoQ9rhWhD,0.372,0.0813,0.751,-6.694,0.0846,8.02e-06,0.122,0.257,0,168.247,1,285640,4
+"Beyoncé, OK DAC courtesy of Formation Records and Taciturn",Ego - OK DAC Club Remix,Above And Beyoncé Dance Mixes,False,"pop, r&b",2009-06-16,0VCZ8tS4za4kEwJHbMNVnY,0.846,0.613,0.683,-6.148,0.0452,1.74e-05,0.0583,0.0654,10,122.988,0,387320,4
+"Beyoncé, Remix produced and mixed by Jesse Peterson & Alan Gordon",Sweet Dreams - Harlan Pepper & AG III Remix,Above And Beyoncé Dance Mixes,False,"pop, r&b",2009-06-16,5Dsf6dRMYhyq3JxHzjDUGb,0.772,0.774,0.863,-6.35,0.00202,0.487,0.331,0.0423,11,126.995,1,401960,4
+"Beyoncé, Kanye West",Ego (feat. Kanye West) - Remix,Above And Beyoncé Dance Mixes,False,"pop, r&b",2009-06-16,1tta4aktfa50BLaCttgl1T,0.574,0.341,0.421,-5.443,0.0989,0.0,0.0568,0.174,1,78.781,1,283933,4
+Beyoncé,If I Were a Boy,I AM...SASHA FIERCE,False,"pop, r&b",2008-11-14,26NX1wPt1TRCH536yocd6i,0.632,0.427,0.518,-6.126,0.107,0.0,0.354,0.0313,6,90.007,1,249147,4
+Beyoncé,Halo,I AM...SASHA FIERCE,False,"pop, r&b",2008-11-14,3ERa3mEeOnrh2Mc47qM6T1,0.508,0.472,0.72,-5.908,0.272,0.0,0.0563,0.0628,11,79.983,0,261640,4
+Beyoncé,Disappear,I AM...SASHA FIERCE,False,"pop, r&b",2008-11-14,03LDjOt38LwvM9choMGGWU,0.492,0.206,0.348,-10.676,0.128,0.0,0.326,0.0301,5,78.412,1,267453,4
+Beyoncé,Broken-Hearted Girl,I AM...SASHA FIERCE,False,"pop, r&b",2008-11-14,31acMiV67UgKn1ScFChFxo,0.336,0.159,0.424,-7.203,0.503,0.0,0.273,0.0353,5,82.149,1,277627,4
+Beyoncé,Ave Maria,I AM...SASHA FIERCE,False,"pop, r&b",2008-11-14,1j9HwUMSkRUeVFRWlHcFsy,0.35,0.201,0.403,-9.57,0.786,0.0,0.12,0.0279,0,104.957,1,221653,3
+Beyoncé,Smash Into You,I AM...SASHA FIERCE,False,"pop, r&b",2008-11-14,3vi85V6MSvFs0j720UxoAF,0.572,0.103,0.429,-8.974,0.192,0.0,0.263,0.0271,1,95.068,1,271613,4
+Beyoncé,Satellites,I AM...SASHA FIERCE,False,"pop, r&b",2008-11-14,2UBZCxvghc6M635BEKjHZe,0.384,0.282,0.153,-14.55,0.729,0.0,0.116,0.0324,7,109.859,1,186827,4
+Beyoncé,That's Why You're Beautiful,I AM...SASHA FIERCE,False,"pop, r&b",2008-11-14,22yMWV37oR5GTuP6XMummO,0.549,0.102,0.628,-7.45,0.00908,2.06e-05,0.128,0.0309,2,115.036,1,221467,4
+Beyoncé,Single Ladies (Put a Ring on It),I AM...SASHA FIERCE,False,"pop, r&b",2008-11-14,2ZBNclC5wm4GtiWaeh0DMx,0.426,0.272,0.584,-5.293,0.0383,0.0,0.188,0.296,1,193.437,1,193213,4
+Beyoncé,Radio,I AM...SASHA FIERCE,False,"pop, r&b",2008-11-14,1l0LovwzqV3leLDHOz7zJ6,0.605,0.553,0.763,-5.949,0.129,2.41e-06,0.0839,0.0775,1,135.771,1,218787,4
+Beyoncé,Diva,I AM...SASHA FIERCE,False,"pop, r&b",2008-11-14,5Ssv6DaKrW0HczVqx6zXdl,0.875,0.861,0.551,-6.744,0.0488,0.00728,0.0537,0.317,6,146.092,0,200613,4
+Beyoncé,Sweet Dreams,I AM...SASHA FIERCE,False,"pop, r&b",2008-11-14,1FKxKGONukVFXWVJxAKmlz,0.694,0.788,0.825,-5.986,0.0895,1.86e-05,0.0618,0.111,1,121.949,1,208067,4
+Beyoncé,Video Phone,I AM...SASHA FIERCE,False,"pop, r&b",2008-11-14,53hNzjDClsnsdYpLIwqXvn,0.479,0.608,0.763,-8.954,0.00242,0.0353,0.383,0.178,8,84.769,1,215440,4
+Beyoncé,Hello,I AM...SASHA FIERCE,False,"pop, r&b",2008-11-14,3ID5lLzkh4uM8XPUuB2VKq,0.33,0.416,0.769,-5.755,0.206,1.54e-06,0.143,0.17,6,97.515,1,256533,3
+Beyoncé,Ego,I AM...SASHA FIERCE,False,"pop, r&b",2008-11-14,6GcuA4J9ruyClBizBd4m5E,0.623,0.489,0.389,-7.816,0.155,0.0,0.163,0.241,1,79.454,1,236360,4
+Beyoncé,Scared of Lonely,I AM...SASHA FIERCE,False,"pop, r&b",2008-11-14,5m3MMqREtffhno6KLdpnDI,0.534,0.205,0.575,-6.706,0.0546,0.0,0.131,0.0519,1,86.961,1,222920,4
+"Beyoncé, Shakira",Beautiful Liar,B'Day Deluxe Edition,False,"pop, r&b",2007-05-29,2HWWNoWEEEECwZhAiLg7ib,0.764,0.418,0.751,-3.74,0.00554,0.000237,0.164,0.0703,8,91.977,1,199853,4
+Beyoncé,Irreplaceable,B'Day Deluxe Edition,False,"pop, r&b",2007-05-29,6RX5iL93VZ5fKmyvNXvF1r,0.447,0.509,0.694,-4.637,0.0293,5.46e-06,0.167,0.382,7,175.868,0,227853,4
+Beyoncé,Green Light,B'Day Deluxe Edition,False,"pop, r&b",2007-05-29,3JdDBUiZ1UJv7J7RQqxEFF,0.796,0.726,0.572,-7.019,0.0682,7.82e-06,0.135,0.0634,10,107.045,0,210240,4
+Beyoncé,Kitty Kat,B'Day Deluxe Edition,False,"pop, r&b",2007-05-29,7sk73N1SgNZweS3ozl3NXs,0.814,0.537,0.384,-7.953,0.0516,0.00305,0.0968,0.292,1,157.992,1,235680,4
+"Beyoncé, JAY-Z",Welcome To Hollywood (feat. Jay-Z),B'Day Deluxe Edition,False,"pop, r&b",2007-05-29,1ouHuqrpM2NlyOSoQqZvSP,0.807,0.78,0.784,-4.866,0.0118,0.000124,0.315,0.236,7,124.821,1,198280,4
+"Beyoncé, JAY-Z",Upgrade U (feat. Jay-Z),B'Day Deluxe Edition,False,"pop, r&b",2007-05-29,0GLUBbX4daHJkT3RQHEOia,0.593,0.483,0.68,-5.556,0.00182,4.84e-05,0.31,0.335,7,84.547,1,273053,4
+Beyoncé,Flaws and All,B'Day Deluxe Edition,False,"pop, r&b",2007-05-29,30Z84zKyyx3Hn2Af8OdwaR,0.664,0.625,0.701,-7.718,0.234,0.00117,0.0646,0.0967,1,151.947,1,248853,4
+Beyoncé,World Wide Woman,B'Day Deluxe Edition,False,"pop, r&b",2007-05-29,2if8i85YH1WAVbOCM5cFuo,0.485,0.196,0.827,-3.707,0.144,0.0,0.116,0.177,11,92.161,0,222013,4
+Beyoncé,Get Me Bodied - Extended Mix,B'Day Deluxe Edition,False,"pop, r&b",2007-05-29,3W1mdCYUHWewrVXnRsPntM,0.925,0.667,0.728,-6.82,0.00408,0.0,0.207,0.254,1,96.54,1,379120,4
+Beyoncé,If,B'Day Deluxe Edition,False,"pop, r&b",2007-05-29,7ybhptDcHnLW7EtUNr87Uf,0.47,0.298,0.476,-8.825,0.248,0.0,0.106,0.0371,8,94.922,1,198280,4
+Beyoncé,Freakum Dress,B'Day Deluxe Edition,False,"pop, r&b",2007-05-29,5XM8AjUuP4uEWZ9XGGYLFk,0.681,0.459,0.715,-5.148,0.0039,5.04e-05,0.0569,0.0638,1,98.96,1,201200,4
+Beyoncé,Suga Mama,B'Day Deluxe Edition,False,"pop, r&b",2007-05-29,68thzKPaW0pzn5IxcCJd8O,0.691,0.573,0.931,-4.037,0.212,0.000118,0.34,0.265,9,93.852,0,205973,4
+"Beyoncé, JAY-Z",Deja Vu (feat. Jay-Z),B'Day Deluxe Edition,False,"pop, r&b",2007-05-29,423EcxblW9F4nnQkqcqMlK,0.644,0.355,0.746,-4.941,0.0071,1.22e-05,0.0743,0.341,7,105.253,1,240280,4
+Beyoncé,Ring The Alarm,B'Day Deluxe Edition,False,"pop, r&b",2007-05-29,5BkHkyO9PFXs1m7vSMnXp4,0.458,0.48,0.751,-8.395,0.0299,0.000155,0.258,0.469,2,169.673,1,203347,4
+Beyoncé,Resentment,B'Day Deluxe Edition,False,"pop, r&b",2007-05-29,6p3RSoc1B77D6sJT4vtVZ4,0.29,0.48,0.574,-5.387,0.6,0.0,0.149,0.112,6,197.431,1,282360,3
+Beyoncé,"Listen (From the Motion Picture ""Dreamgirls"")",B'Day Deluxe Edition,False,"pop, r&b",2007-05-29,4z7Ja0RNran3XpIvc1PIQz,0.432,0.187,0.637,-3.905,0.416,0.0,0.113,0.0475,11,122.394,1,219547,4
+"Beyoncé, Alejandro Fernández",Amor Gitano,B'Day Deluxe Edition,False,"pop, r&b",2007-05-29,1Kd5Qj9kicqjCw1BjWRzH0,0.491,0.596,0.745,-5.631,0.473,0.0,0.239,0.254,4,167.875,0,228413,4
+Beyoncé,Listen (Oye) - Spanish Version,B'Day Deluxe Edition,False,"pop, r&b",2007-05-29,5b65LF6kBoxmkPN4Lz5mmF,0.548,0.141,0.638,-3.115,0.588,0.0,0.101,0.0435,11,122.868,1,221200,4
+Beyoncé,Irreplaceable (Irreemplazable) - Spanish version,B'Day Deluxe Edition,False,"pop, r&b",2007-05-29,1BKTisxMw0p2l55xvMWkpo,0.627,0.615,0.705,-3.539,0.0941,6.61e-06,0.178,0.231,10,175.861,1,227667,4
+Beyoncé,Beautiful Liar (Bello Embustero) - Spanish Version,B'Day Deluxe Edition,False,"pop, r&b",2007-05-29,4Ao5ZHafrPDOIFcjMd1dER,0.646,0.513,0.806,-4.495,0.0997,1.26e-06,0.258,0.135,7,91.962,1,200813,4
+"Beyoncé, Shakira, Visitante",Beautiful Liar - Remix,B'Day Deluxe Edition,False,"pop, r&b",2007-05-29,16F7nHePq2Bs62DIPS2IIZ,0.763,0.487,0.761,-3.794,0.0063,8.31e-05,0.287,0.0544,7,91.977,1,180520,4
+Beyoncé,Beautiful Liar (feat. Sasha) - Spanglish Version,B'Day Deluxe Edition,False,"pop, r&b",2007-05-29,3VGOzKd0mi1YZ34sdNZS2W,0.694,0.57,0.726,-5.13,0.0034,0.00373,0.0801,0.042,7,92.015,1,199427,4
+"Beyoncé, Rudy Pérez",Irreplaceable (Irreemplazable) - Nortena Remix,B'Day Deluxe Edition,False,"pop, r&b",2007-05-29,3DGXHKCey74H4o2s8r8DWX,0.511,0.845,0.808,-4.09,0.15,1.03e-06,0.232,0.139,10,176.042,1,230747,4
+"Beyoncé, JAY-Z",Deja Vu (feat. Jay-Z),B'Day,False,"pop, r&b",2006-09-04,2MAyGB3UgAbbT1Fjc7b7aA,0.763,0.362,0.728,-4.944,0.00677,1.22e-05,0.0915,0.326,7,105.923,1,239960,4
+Beyoncé,Get Me Bodied,B'Day,False,"pop, r&b",2006-09-04,6fmeXejj4CNkAQ78yao7oE,0.865,0.651,0.829,-6.981,0.0673,0.0,0.253,0.315,0,96.511,0,205813,4
+Beyoncé,Suga Mama,B'Day,False,"pop, r&b",2006-09-04,7hrrhtzmyTcULmNlYlcxJO,0.682,0.615,0.939,-4.054,0.226,0.000315,0.346,0.284,9,93.81,0,204813,4
+"Beyoncé, JAY-Z",Upgrade U (feat. Jay-Z),B'Day,False,"pop, r&b",2006-09-04,6V1nOgkrGmr6Wx1x4RQ6Bc,0.474,0.509,0.683,-5.585,0.00161,0.000123,0.309,0.397,7,169.51,1,272707,4
+Beyoncé,Ring The Alarm,B'Day,False,"pop, r&b",2006-09-04,63THThIOBNIl93zs8JuAfk,0.456,0.428,0.742,-8.39,0.0534,0.000223,0.0837,0.481,2,168.507,1,203200,4
+Beyoncé,Kitty Kat,B'Day,False,"pop, r&b",2006-09-04,5UhR5ud9gS6n0PgzsjZmQd,0.81,0.506,0.386,-7.846,0.0529,0.00944,0.0969,0.311,1,157.919,1,235387,4
+Beyoncé,Freakum Dress,B'Day,False,"pop, r&b",2006-09-04,3IAyQMTYOsspp9p1htFSak,0.683,0.378,0.703,-5.154,0.0043,1.49e-05,0.0599,0.0585,1,98.953,1,200533,4
+Beyoncé,Green Light,B'Day,False,"pop, r&b",2006-09-04,5fJZwKCPUicgfqkmh1R8ES,0.796,0.729,0.568,-7.071,0.0833,1.11e-05,0.256,0.0631,10,107.034,0,209107,4
+Beyoncé,Irreplaceable,B'Day,False,"pop, r&b",2006-09-04,1G7DcLzPnopdZjLkev0K4e,0.576,0.501,0.697,-4.192,0.0286,1.15e-06,0.167,0.326,10,175.906,1,227667,4
+Beyoncé,Resentment,B'Day,False,"pop, r&b",2006-09-04,7zt3bDTgxn03ZfV9xHqOs5,0.378,0.482,0.565,-5.388,0.648,0.0,0.13,0.0493,6,102.131,1,280693,3
+"Beyoncé, Bun B, Slim Thug",Check On It (feat. Bun B & Slim Thug),B'Day,False,"pop, r&b",2006-09-04,2RWxrpsFshOBFwRBRstUlQ,0.705,0.864,0.796,-6.845,0.0708,0.0,0.388,0.267,7,166.042,1,210453,4
+"Beyoncé, JAY-Z",Crazy In Love (feat. Jay-Z),Dangerously In Love,False,"pop, r&b",2003-06-24,5IVuqXILoxVWvWEPm82Jxr,0.646,0.681,0.77,-6.596,0.00249,0.0,0.0715,0.226,2,99.165,0,236133,4
+Beyoncé,Naughty Girl,Dangerously In Love,False,"pop, r&b",2003-06-24,0YGQ3hZcRLC5YX7o0hdmHg,0.588,0.659,0.461,-8.686,0.237,1.54e-05,0.0913,0.161,6,200.053,0,208573,4
+"Beyoncé, Sean Paul",Baby Boy (feat. Sean Paul),Dangerously In Love,False,"pop, r&b",2003-06-24,4WY3HyGXsWqjFRCVD6gnTe,0.655,0.791,0.488,-9.17,0.0825,1.16e-06,0.221,0.22,1,91.025,1,244827,4
+"Beyoncé, Big Boi, Sleepy Brown",Hip Hop Star (feat. Big Boi & Sleepy Brown),Dangerously In Love,False,"pop, r&b",2003-06-24,5cl6rJmigUbx6cNrA3nV8z,0.736,0.971,0.651,-8.933,0.00265,0.000238,0.0838,0.124,6,166.572,1,222600,3
+Beyoncé,Be With You,Dangerously In Love,False,"pop, r&b",2003-06-24,1qgNiHh7QoSgzoFZEPwPNm,0.711,0.782,0.454,-6.485,0.125,2.15e-06,0.071,0.0904,0,74.928,0,260200,4
+Beyoncé,"Me, Myself and I",Dangerously In Love,False,"pop, r&b",2003-06-24,6XsT5UGfpaFeHQf5LRIy4W,0.75,0.536,0.458,-9.092,0.226,3.25e-05,0.137,0.0803,1,83.61,1,301133,4
+Beyoncé,Yes,Dangerously In Love,False,"pop, r&b",2003-06-24,3m9641nehhPSAIEODgBqaW,0.662,0.551,0.374,-11.19,0.114,3.59e-06,0.249,0.34,9,112.694,1,259067,4
+"Beyoncé, Missy Elliott",Signs (feat. Missy Elliott),Dangerously In Love,False,"pop, r&b",2003-06-24,3goUufQotOykzA3zLkPNyb,0.447,0.411,0.395,-9.828,0.153,3.98e-06,0.133,0.225,7,76.758,1,298200,3
+Beyoncé,Speechless,Dangerously In Love,False,"pop, r&b",2003-06-24,3V5I90jseccXcK4MGC1gqr,0.568,0.103,0.282,-10.225,0.158,0.00258,0.182,0.0313,10,112.708,1,360493,3
+"Beyoncé, JAY-Z",That's How You Like It (feat. Jay-Z),Dangerously In Love,False,"pop, r&b",2003-06-24,68JTZDIYLoUwW4ibQZrM1X,0.493,0.697,0.527,-9.752,0.167,0.0,0.288,0.33,10,103.451,1,219200,3
+Beyoncé,Dangerously In Love,Dangerously In Love,False,"pop, r&b",2003-06-24,0KFuXEdOp5QfIfxHR6TJSm,0.609,0.459,0.407,-8.026,0.345,0.0,0.19,0.0808,6,99.982,1,293133,4
+Beyoncé,Beyoncé Interlude,Dangerously In Love,False,"pop, r&b",2003-06-24,1cfE96qcUYYaSxz1S6Qh6i,0.65,0.542,0.0452,-20.854,0.485,0.0,0.121,0.7,0,152.48,1,16373,1
+Beyoncé,Gift from Virgo,Dangerously In Love,False,"pop, r&b",2003-06-24,6aa0HmJb38PLZw6Fc7BMId,0.388,0.32,0.265,-12.712,0.901,0.0,0.194,0.0499,11,137.24,0,163933,1
+Beyoncé,Daddy,Dangerously In Love,False,"pop, r&b",2003-06-24,5pv5vddJx34hzRT9wI0wK2,0.469,0.448,0.446,-9.237,0.255,1.49e-05,0.182,0.0753,1,123.46,0,298333,4
+Beyoncé,TEXAS HOLD 'EM,TEXAS HOLD 'EM,True,"pop, r&b",2024-02-10,7AYmToZ5y67fBjq4RLFbuq,0.725,0.353,0.709,-6.514,0.588,0.0,0.135,0.072,2,110.024,1,235636,4
+Beyoncé,TEXAS HOLD 'EM - Instrumental,TEXAS HOLD 'EM,False,"pop, r&b",2024-02-10,1EehYf4PaTPLUEinJb42ip,0.743,0.411,0.528,-12.633,0.386,0.869,0.126,0.0508,2,109.976,1,235636,4
+Beyoncé,TEXAS HOLD 'EM - Acapella,TEXAS HOLD 'EM,True,"pop, r&b",2024-02-10,3CO6HOUlId7rETe7JNFqwD,0.736,0.451,0.372,-7.636,0.804,0.0,0.135,0.263,7,109.843,1,228254,4
+Beyoncé,16 CARRIAGES,16 CARRIAGES,False,"pop, r&b",2024-02-09,3Fwebmu4BzPUpDtPZo0qHb,0.525,0.382,0.453,-7.047,0.382,0.0,0.0859,0.0634,8,127.246,1,233521,4
+Beyoncé,MY HOUSE,MY HOUSE,True,"pop, r&b",2023-12-01,7omJfT9s6V2IpQNBYyq5C8,0.494,0.512,0.849,-6.438,0.0748,0.00152,0.791,0.343,0,181.428,0,262941,5
+"Beyoncé, Travis Scott",DELRESTO (ECHOES),DELRESTO (ECHOES),False,"pop, r&b",2023-07-26,04CXnx5jbmTSXhItqc13fs,0.7,0.525,0.607,-6.303,0.469,0.0,0.328,0.043,2,116.036,0,274138,4
+"Beyoncé, Kendrick Lamar",AMERICA HAS A PROBLEM (feat. Kendrick Lamar),AMERICA HAS A PROBLEM (feat. Kendrick Lamar),True,"pop, r&b",2023-05-19,6l8mgVN9Xf1hiDIFGA6CTE,0.784,0.204,0.7,-5.289,0.0112,1.76e-05,0.163,0.0396,1,126.015,1,260962,4
+Beyoncé,CUFF IT - WETTER REMIX,CUFF IT,True,"pop, r&b",2023-02-08,7eQpbVg3tjHmtdOlAHxaTr,0.66,0.65,0.688,-6.34,0.434,0.0,0.489,0.0564,7,118.05,1,249407,4
+Beyoncé,CUFF IT - ACAPELLA VERSION,CUFF IT,True,"pop, r&b",2023-02-08,4vOp02U6NP1pygXaEUFVnt,0.642,0.545,0.273,-8.079,0.733,0.0,0.182,0.169,7,124.154,1,225389,3
+Beyoncé,CUFF IT - INSTRUMENTAL VERSION,CUFF IT,False,"pop, r&b",2023-02-08,4lETM03OnJeIn1tNqEkptF,0.911,0.517,0.512,-8.186,0.00335,0.827,0.0629,0.127,4,114.999,0,225389,4
+"Beyoncé, will.i.am",BREAK MY SOUL - will.i.am Remix,BREAK MY SOUL REMIXES,False,"pop, r&b",2022-07-26,5EooBH2mT6qcsPY8ZgZPVW,0.797,0.488,0.824,-4.009,0.0131,0.000128,0.0873,0.18,8,114.952,0,238732,4
+"Beyoncé, Terry Hunter",BREAK MY SOUL - Terry Hunter Remix,BREAK MY SOUL REMIXES,False,"pop, r&b",2022-07-26,6UpmSD4nZhmESpf1vtSax0,0.773,0.853,0.879,-6.017,0.00171,0.0265,0.0333,0.0929,8,123.009,0,330594,4
+"Beyoncé, Honey Dijon",BREAK MY SOUL - Honey Dijon Remix,BREAK MY SOUL REMIXES,False,"pop, r&b",2022-07-26,0ygoQd0TX8WQuSX2sDTN95,0.805,0.355,0.882,-6.754,0.000974,0.129,0.0373,0.0486,1,125.003,1,387085,4
+"Beyoncé, Nita Aviance",BREAK MY SOUL - Nita Aviance Club Mix,BREAK MY SOUL REMIXES,False,"pop, r&b",2022-07-26,4r5CZANZYfNIgAQDJiIMV5,0.711,0.68,0.976,-5.931,0.00113,0.402,0.158,0.0733,1,120.008,0,594807,4
+"Beyoncé, J. Cole",Party (feat. J. Cole),Party (feat. J. Cole),False,"pop, r&b",2011-10-24,7GjNPaxtLRJxPy1U6bLYrK,0.649,0.708,0.547,-6.936,0.0111,0.0,0.105,0.0493,10,161.007,1,219827,4
+"Beyoncé, Kaskade",Run the World (Girls) - Kaskade Club Remix,Run The World (Girls) - Remixes,False,"pop, r&b",2011-04-21,2EWqg77KizAutZweaSTbML,0.65,0.848,0.814,-5.052,0.00385,0.0115,0.082,0.0817,5,127.003,0,302427,4
+"Beyoncé, Jens Bergmark",Run the World (Girls) - RedTop Club Remix,Run The World (Girls) - Remixes,False,"pop, r&b",2011-04-21,3roIRbQot7KEhK2gWcldhD,0.728,0.698,0.821,-3.545,0.00018,0.265,0.076,0.0449,1,128.02,1,362987,4
+"Beyoncé, Julian Napolitano",Run the World (Girls) - Jochen Simms Club Remix,Run The World (Girls) - Remixes,False,"pop, r&b",2011-04-21,16IBJ7vWL7xksuj92xqwlz,0.806,0.358,0.774,-4.162,0.00192,0.703,0.238,0.0535,0,129.022,0,377093,4
+Beyoncé,Fever,Fever,False,"pop, r&b",2010-02-08,2Y36tgwhi4gykzF0jXwYH2,0.588,0.442,0.261,-13.225,0.1,9.13e-06,0.13,0.0975,1,118.13,1,212893,4
+"Beyoncé, Lady Gaga, William Burke",Video Phone (feat. Lady Gaga),I AM...SASHA FIERCE THE BONUS TRACKS,False,"pop, r&b",2009-11-20,2nX9948PslVYrrHUf6w0eL,0.32,0.527,0.782,-7.37,0.00203,0.000851,0.39,0.374,8,78.05,1,304693,4
+Beyoncé,Why Don't You Love Me,I AM...SASHA FIERCE THE BONUS TRACKS,False,"pop, r&b",2009-11-20,4qwT6ISA0clmfsFSTjd9Hb,0.692,0.745,0.727,-4.562,0.0451,1.94e-06,0.0568,0.0868,6,136.87,1,217280,4
+Beyoncé,Poison,I AM...SASHA FIERCE THE BONUS TRACKS,False,"pop, r&b",2009-11-20,0yGlYMCTNE1aKRd5YAXEdg,0.771,0.686,0.674,-5.136,0.171,0.0,0.096,0.266,7,125.01,1,244893,4
+Beyoncé,Ego,Ego/Sweet Dreams Singles & Dance Mixes,False,"pop, r&b",2009-07-21,5nEldYWCnGFKkAz5GO59Uy,0.605,0.545,0.383,-7.837,0.135,0.0,0.168,0.235,1,77.973,1,237733,4
+"Beyoncé, DJ Escape for Escape Productions, Johnny Vicious for Escape Productions",Ego - DJ Escape & Johnny Vicious Club Remix,Ego/Sweet Dreams Singles & Dance Mixes,False,"pop, r&b",2009-07-21,51gN9LgCco7yTI97uLV3qM,0.519,0.489,0.668,-3.969,0.0111,0.22,0.0438,0.101,1,191.197,1,502560,3
+"Beyoncé, Jere McAllister for Slang Music Group, Vince Lawrence for Slang Music Group","Ego - Slang ""Big Ego"" Club Remix",Ego/Sweet Dreams Singles & Dance Mixes,False,"pop, r&b",2009-07-21,3yIN42eXlqa4YsDmizPMU4,0.747,0.672,0.365,-7.572,0.00182,0.0469,0.0597,0.0739,10,127.998,0,379067,4
+Beyoncé,Sweet Dreams,Ego/Sweet Dreams Singles & Dance Mixes,False,"pop, r&b",2009-07-21,3BwDtDoQJjo8lsSMTMuUHg,0.693,0.755,0.819,-6.001,0.103,1.64e-05,0.0637,0.101,1,121.968,1,209213,4
+"Beyoncé, OK DAC",Sweet Dreams - OK DAC Club Remix,Ego/Sweet Dreams Singles & Dance Mixes,False,"pop, r&b",2009-07-21,599PkpIyNxLQjpRfWLQ8An,0.54,0.217,0.717,-5.529,0.00303,0.000306,0.176,0.0751,6,127.999,1,314253,4
+"Beyoncé, Achilles Sparta for Karmatronic Sound Mgmt LLC, Peter Krajczar for Karmatronic Sound Mgmt LLC",Sweet Dreams - Karmatronic Club Remix,Ego/Sweet Dreams Singles & Dance Mixes,False,"pop, r&b",2009-07-21,6smNPW8bUwL8VbSzgz0CLf,0.84,0.772,0.634,-7.64,0.0142,0.137,0.134,0.116,11,128.018,1,396200,4
+Beyoncé,Halo - Radio Edit,Halo - Single & Remixes,False,"pop, r&b",2009-04-13,5Mu72dhSQLwAPNG7Z5iCVB,0.523,0.59,0.729,-5.739,0.268,1.26e-06,0.129,0.0677,9,80.104,1,224400,4
+"Beyoncé, Dave Audé, Christian on HD Accel at Audacious",Halo - Dave Audé Club Remix,Halo - Single & Remixes,False,"pop, r&b",2009-04-13,5beEcQRShc04vlWtPaJ0pu,0.801,0.847,0.712,-6.46,0.0137,0.684,0.0209,0.0605,11,128.002,0,534187,4
+"Beyoncé, Kazuhiko Gomi for Bernadette Brennan Management",Halo - Gomi Club Remix,Halo - Single & Remixes,False,"pop, r&b",2009-04-13,7zbE7gaXB4T8vDlaXLvH5S,0.702,0.677,0.742,-5.728,0.00455,0.362,0.0903,0.034,6,130.005,0,537267,4
+"Beyoncé, Achilles Sparta for Karmatronic Sound Mgmt LLC, Peter Krajczar for Karmatronic Sound Mgmt LLC",Halo - Karmatronic Club Remix,Halo - Single & Remixes,False,"pop, r&b",2009-04-13,4apEXygYzaULwcAMKywq0p,0.671,0.707,0.846,-5.804,0.00754,0.000408,0.846,0.144,11,132.013,0,433307,4
+Beyoncé,Halo - Lost Daze Club Remix,Halo - Single & Remixes,False,"pop, r&b",2009-04-13,13k8nlTn4Ph812sE7up6TX,0.644,0.598,0.612,-7.154,0.0255,0.000803,0.0275,0.0393,11,135.027,0,482347,4
+"Beyoncé, Dave Audé for Awestruck Productions, Inc.",Single Ladies (Put a Ring on It) - Dave Audé Remix - Club Version,Single Ladies (Put A Ring On It) Dance Remixes,False,"pop, r&b",2009-02-16,3fLu9Iu9rG3fDf3ErDqSSV,0.796,0.657,0.845,-5.784,0.00972,0.778,0.0334,0.0819,1,126.016,0,499960,4
+"Beyoncé, Achilles Sparta for Karmatronic Sound Mgmt LLC, Peter Krajczar for Karmatronic Sound Mgmt LLC",Single Ladies (Put a Ring on It) - Karmatronic Remix - Club Version,Single Ladies (Put A Ring On It) Dance Remixes,False,"pop, r&b",2009-02-16,7Jz9biYcDw6V1yUbwyMz6I,0.765,0.607,0.733,-7.565,0.000698,0.689,0.0346,0.0655,1,126.961,0,354547,4
+"Beyoncé, Jens Bergmark for Peace Bisquit",Single Ladies (Put a Ring on It) - RedTop Remix - Club Version,Single Ladies (Put A Ring On It) Dance Remixes,False,"pop, r&b",2009-02-16,07eke0y2iFIQcMQeX0x4TE,0.707,0.782,0.847,-6.755,9.98e-05,0.0503,0.353,0.0567,6,125.982,0,412800,4
+"Beyoncé, DJ Escape for Escape Productions, Tony Coluccio for Global Media Music",Single Ladies (Put a Ring on It) - DJ Escape & Tony Coluccio Remix - Club Version,Single Ladies (Put A Ring On It) Dance Remixes,False,"pop, r&b",2009-02-16,52ZmBROpZKt499foTBbxa9,0.796,0.769,0.924,-5.414,0.0029,0.919,0.0229,0.0854,6,128.003,0,413987,4
+"Beyoncé, Frank Demaria for Dazed Recordings and Peace Bisquit, Anthony Saputo for Dazed Recordings and Peace Bisquit",Single Ladies (Put a Ring on It) - Lost Daze Dating Service Remix - Club Version,Single Ladies (Put A Ring On It) Dance Remixes,False,"pop, r&b",2009-02-16,2UepVUZyJn1rxokRRE7kBn,0.884,0.433,0.747,-7.562,0.00055,0.0133,0.661,0.0594,11,124.982,0,407653,4
+"Beyoncé, Craig Christensen for The Other One and Peace Bisquit",Single Ladies (Put a Ring on It) - Craig C's Master Blaster Remix - Club Version,Single Ladies (Put A Ring On It) Dance Remixes,False,"pop, r&b",2009-02-16,2r1o4Vyb7W4cLujPsqC3wP,0.707,0.765,0.821,-7.516,0.000691,0.477,0.0496,0.0421,11,124.989,0,499040,4
+Beyoncé,Si Yo Fuera Un Chico - If I Were A Boy - Spanish Version,Si Yo Fuera Un Chico,False,"pop, r&b",2009-02-03,44umbKt0SsxXTohEKhcrk0,0.675,0.514,0.516,-5.546,0.0785,5.02e-05,0.361,0.0271,6,90.001,1,249427,4
+Beyoncé,If I Were a Boy - Lost Daze Remix - Main,If I Were A Boy - Dance Mixes - Volume II,False,"pop, r&b",2009-02-03,3z3d8zii7INE7BOJvdjrAW,0.745,0.833,0.693,-5.616,0.00131,0.000417,0.0564,0.0499,3,122.988,0,308307,4
+"Beyoncé, Remixed by Mark Picchiotti for MARK! Productions, Inc. and Peace Bisquit",If I Were a Boy - Mark Picchiotti Remix - Club,If I Were A Boy - Dance Mixes - Volume II,False,"pop, r&b",2009-02-03,6H2mLVIzrIDoT3R0dEjvDb,0.769,0.908,0.802,-6.922,0.000107,0.296,0.0516,0.046,6,125.992,1,435093,4
+"Beyoncé, Remixed by Mark Picchiotti for MARK! Productions, Inc. and Peace Bisquit",If I Were a Boy - Mark Picchiotti Remix - Dub,If I Were A Boy - Dance Mixes - Volume II,False,"pop, r&b",2009-02-03,6Uvrt17Lu7uHl5BRVNur5Q,0.799,0.946,0.79,-7.883,0.000215,0.749,0.0642,0.0525,11,125.998,1,435093,4
+Beyoncé,"If I Were a Boy - Chase ""Girls"" Remix - Club",If I Were A Boy - Dance Mixes - Volume II,False,"pop, r&b",2009-02-03,3icUVY5rnJq6rXxZtxWmvn,0.677,0.814,0.969,-5.082,0.00212,0.614,0.183,0.0556,1,127.006,1,507987,4
+Beyoncé,If I Were a Boy - Lost Daze Remix - Radio Edit,If I Were A Boy - Dance Mixes - Volume II,False,"pop, r&b",2009-02-03,7ekhSSb1fU9opOmd8dlsET,0.689,0.912,0.83,-4.947,0.0114,6.67e-06,0.293,0.0515,3,122.957,0,185480,4
+"Beyoncé, Remixed by Mark Picchiotti for MARK! Productions, Inc. and Peace Bisquit",If I Were a Boy - Mark Picchiotti Remix - Radio Edit,If I Were A Boy - Dance Mixes - Volume II,False,"pop, r&b",2009-02-03,25KVkjHuUenqvniXxMCaw5,0.75,0.966,0.839,-6.371,0.000185,0.0772,0.364,0.0378,6,125.974,1,222147,4
+Beyoncé,"If I Were a Boy - Chase ""Girls"" Remix - Radio Edit",If I Were A Boy - Dance Mixes - Volume II,False,"pop, r&b",2009-02-03,0MVM8tgLUdVn50XqSVJb6s,0.613,0.857,0.932,-5.432,0.000856,0.0439,0.153,0.0412,1,127.007,1,211747,4
+"Beyoncé, Maurice Joshua for Nu Soul Inc.",If I Were a Boy - Maurice Joshua Mojo UK Remix - Main,If I Were A Boy - Dance Mixes - Volume I,False,"pop, r&b",2009-02-03,4eoXTLjwlUwkaVtdZZ6dfn,0.711,0.902,0.82,-7.003,0.0037,0.171,0.0587,0.0417,1,126.0,1,390600,4
+"Beyoncé, Maurice Joshua for Nu Soul Inc.",If I Were a Boy - Maurice Joshua Mojo UK Remix - Dub,If I Were A Boy - Dance Mixes - Volume I,False,"pop, r&b",2009-02-03,6OWtimmauMDIs8EDQxwtz9,0.706,0.83,0.85,-6.434,0.00457,0.132,0.0512,0.0406,1,125.998,1,388920,4
+"Beyoncé, Achilles Sparta, Peter Krajczar",If I Were a Boy - Karmatronic Remix - Main,If I Were A Boy - Dance Mixes - Volume I,False,"pop, r&b",2009-02-03,0QmOyQeDUh0xxfpSgrXmsX,0.782,0.727,0.693,-8.407,0.000161,0.375,0.876,0.0699,10,126.998,0,385720,4
+"Beyoncé, DJ Escape, Dom Capello",If I Were a Boy - DJ Escape & Dom Capello Remix - Main,If I Were A Boy - Dance Mixes - Volume I,False,"pop, r&b",2009-02-03,5IB3eduYtLtc2Kz0cOG6pq,0.731,0.553,0.894,-8.06,0.00298,0.451,0.358,0.0502,6,127.99,0,508240,4
+"Beyoncé, Maurice Joshua for Nu Soul Inc.",If I Were a Boy - Maurice Joshua Mojo UK Remix - Radio Edit,If I Were A Boy - Dance Mixes - Volume I,False,"pop, r&b",2009-02-03,5PcJiNy7PtMrOyo7Al7zhy,0.706,0.774,0.845,-5.328,0.00265,0.00154,0.341,0.034,1,126.011,1,194867,4
+"Beyoncé, Achilles Sparta, Peter Krajczar",If I Were a Boy - Karmatronic Remix - Radio Edit,If I Were A Boy - Dance Mixes - Volume I,False,"pop, r&b",2009-02-03,2qb8W9YVXU5LYymPmcr4FJ,0.703,0.729,0.817,-7.105,0.000885,0.0244,0.336,0.0514,10,126.997,0,211893,4
+"Beyoncé, DJ Escape, Dom Capello",If I Were a Boy - DJ Escape & Dom Capello Remix - Radio Edit,If I Were A Boy - Dance Mixes - Volume I,False,"pop, r&b",2009-02-03,5uIQvvqLYvs0Sn8ceMaZ9v,0.637,0.614,0.813,-7.392,0.0239,0.129,0.402,0.0367,6,127.993,0,247120,4
+Beyoncé,At Last - Live from Fashion Rocks,At Last,False,"pop, r&b",2008-11-18,4fpwCdERUIdL1kSmtWTiYb,0.242,0.559,0.438,-12.615,0.519,0.00523,0.765,0.0694,2,171.357,0,173240,3
+"Beyoncé, Alejandro Fernández",Amor Gitano,Irreemplazable,False,"pop, r&b",2007-08-27,2N1D0rf5uu3kYLxgEXWB8E,0.39,0.627,0.758,-5.687,0.457,0.0,0.188,0.322,4,168.128,0,228413,4
+Beyoncé,Listen (Oye) - Spanish Version,Irreemplazable,False,"pop, r&b",2007-08-27,0XVoi0Laai9IeAYu4rdLGs,0.477,0.135,0.644,-3.119,0.572,0.0,0.0973,0.0458,11,123.021,1,221200,4
+Beyoncé,Irreplaceable (Irreemplazable) - Spanish version,Irreemplazable,False,"pop, r&b",2007-08-27,0ee8m2bFx5PgHiop3oaQSY,0.632,0.588,0.707,-3.532,0.108,5.14e-06,0.2,0.24,10,175.91,1,227667,4
+Beyoncé,Beautiful Liar (Bello Embustero) - Spanish Version,Irreemplazable,False,"pop, r&b",2007-08-27,0ujyZVgw0rpdH1dWgIy2qt,0.646,0.551,0.806,-4.491,0.088,1.46e-06,0.251,0.134,7,92.028,1,200813,4
+"Beyoncé, Shakira, Visitante",Beautiful Liar - Remix,Irreemplazable,False,"pop, r&b",2007-08-27,7Kcjtnzm5NM7abCLAwr8dE,0.747,0.478,0.76,-3.797,0.0071,0.000149,0.264,0.0605,1,91.98,1,180520,4
+Beyoncé,Beautiful Liar (feat. Sasha) - Spanglish Version,Irreemplazable,False,"pop, r&b",2007-08-27,6v0OnoQPU4AnhJAQMAvLbe,0.68,0.541,0.739,-5.133,0.00344,0.00219,0.0835,0.0496,8,92.11,1,199427,4
+"Beyoncé, Rudy Pérez",Irreplaceable (Irreemplazable) - Nortena Remix,Irreemplazable,False,"pop, r&b",2007-08-27,1LxDdPfaptGhHEN1FNBChu,0.525,0.873,0.807,-4.124,0.16,5.24e-06,0.213,0.111,10,175.869,1,230560,4
+"Beyoncé, Timothy Mosely, King Logan and Jerome Harmon for Timbaland Productions, King Logan, Jerome Harmon",Get Me Bodied - Timbaland Remix featuring Voltio,Irreemplazable,False,"pop, r&b",2007-08-27,0qetu9HC8KVCPgQz9lxOj9,0.837,0.59,0.737,-5.928,0.0461,3.73e-06,0.32,0.302,10,96.534,0,374587,4
+"Beyoncé, James Wiltshire and Russell Small for Freemaison www.freemaison.com, Russell Small",Green Light - Freemasons Remix,Green Light Freemasons EP,False,"pop, r&b",2007-07-27,5XyPQLgbrwSvVpfU1Uwn9T,0.65,0.726,0.949,-3.8,0.00658,0.000566,0.343,0.0568,1,126.029,1,199547,4
+"Beyoncé, Shakira",Beautiful Liar - Freemasons Club Remix,Green Light Freemasons EP,False,"pop, r&b",2007-07-27,7pNsxfdIiyl1fesIsBamAV,0.632,0.902,0.863,-4.77,0.000227,0.459,0.612,0.0375,7,125.997,1,451907,4
+"Beyoncé, JAY-Z, Russell Small, James Wiltshire",Deja Vu (feat. Jay-Z) - Freemasons Radio Mix,Green Light Freemasons EP,False,"pop, r&b",2007-07-27,0wRN5edYtBPXfA6HC1rMhX,0.687,0.855,0.963,-4.327,0.00953,0.000658,0.328,0.0712,0,126.045,0,195427,4
+"Beyoncé, Freemasons",Ring The Alarm - Freemasons Club Mix Radio Edit,Green Light Freemasons EP,False,"pop, r&b",2007-07-27,0s8W3SU93MeQdkKvZJ8ZCV,0.668,0.944,0.962,-2.706,0.0739,0.0367,0.47,0.0697,7,129.996,1,206707,4
+"Beyoncé, Shakira",Beautiful Liar,Beautiful Liar,False,"pop, r&b",2007-03-26,2P5cIXejqLpHDQeCHAbbBG,0.763,0.38,0.756,-3.926,0.00595,0.000247,0.173,0.0685,8,92.004,1,201520,4
+Beyoncé,Beautiful Liar (Bello Embustero) - Spanish Version,Beautiful Liar,False,"pop, r&b",2007-03-26,5WkGNlvZAojLqoMUcXisKJ,0.662,0.565,0.8,-4.663,0.113,0.0,0.301,0.146,7,92.104,1,202213,4
+Beyoncé,Beautiful Liar (feat. Sasha) - Spanglish Version,Beautiful Liar,False,"pop, r&b",2007-03-26,3h03zEVzbGQY8kxrMv3aQd,0.628,0.56,0.708,-5.592,0.00354,0.0025,0.0743,0.041,8,92.793,1,201227,4
+Beyoncé,Beautiful Liar - Instrumental,Beautiful Liar,False,"pop, r&b",2007-03-26,4wJ90aZ3MK7OmQ60XBfsAB,0.852,0.476,0.524,-6.788,0.000585,0.937,0.093,0.0432,0,91.997,0,199187,4
+"Beyoncé, Ralph Rosario, Craig J. Snider",Irreplaceable - Ralphi & Craig Club Radio Remix,Irreplaceable (remixes),False,"pop, r&b",2007-02-13,42hK2V65DqDPwXEPt2ZULl,0.73,0.569,0.968,-2.925,0.127,0.00516,0.505,0.0673,5,133.001,0,248314,4
+"Beyoncé, Ralph Rosario, Craig J. Snider",Irreplaceable - Ralphi & Craig Club Voc Remix,Irreplaceable (remixes),False,"pop, r&b",2007-02-13,5hqgBE5IFypMqGeXz8rUjE,0.743,0.682,0.991,-4.715,0.0394,0.639,0.0689,0.0524,5,132.999,0,530948,4
+"Beyoncé, Ralph Rosario",Irreplaceable - Ralphi Rosario Dub Remix,Irreplaceable (remixes),False,"pop, r&b",2007-02-13,7DjuuQXbijmUOyjAJ77wBf,0.762,0.168,0.993,-5.241,0.0149,0.856,0.0381,0.0437,10,133.003,1,566938,4
+"Beyoncé, Maurice Joshua",Irreplaceable - Maurice Joshua Remix Edit,Irreplaceable (remixes),False,"pop, r&b",2007-02-13,6yeXlmv0FXXZyoCyl5EB30,0.83,0.721,0.938,-3.301,0.0263,0.0399,0.404,0.0575,1,122.987,1,243484,4
+"Beyoncé, Maurice Joshua",Irreplaceable - Maurice Joshua Club Remix,Irreplaceable (remixes),False,"pop, r&b",2007-02-13,1J4wpizNJFTxD8Jp7zBAs7,0.832,0.769,0.918,-3.515,0.00427,0.391,0.0898,0.0699,1,122.998,1,425854,4
+Beyoncé,Irreplaceable - fetauring Ghostface Killah,Irreplaceable (remixes),False,"pop, r&b",2007-02-13,43aeyVCgHx1OMwwskoHw9E,0.486,0.561,0.719,-3.987,0.0316,0.0,0.466,0.39,10,175.736,1,284816,4
+"Beyoncé, DJ Speedy",Irreplaceable - DJ Speedy Remix,Irreplaceable (remixes),False,"pop, r&b",2007-02-13,4WRuv8HB59w77ElhgGfZGu,0.716,0.132,0.55,-3.417,0.0039,0.302,0.202,0.156,5,175.969,0,260203,4
+Beyoncé,Irreplaceable,Irreplaceable,False,"pop, r&b",2006-12-05,4tPuAry4g0EMJTQhG35yBg,0.56,0.525,0.713,-4.187,0.0237,3.23e-06,0.0947,0.347,10,175.776,1,230573,4
+Beyoncé,Irreplaceable - Instrumental,Irreplaceable,False,"pop, r&b",2006-12-05,6bpKtn87CX8SHVzukUndCQ,0.674,0.389,0.614,-5.845,6.92e-05,0.892,0.0841,0.0545,10,175.985,1,229173,4
+"Beyoncé, Collie Buddz, The Tranzformas",Ring The Alarm (feat. Collie Buddz),Ring The Alarm (Urban Mixes),False,"pop, r&b",2006-10-31,5dzfKpUQzRdU0Z2KjaJDPZ,0.582,0.613,0.934,-5.192,0.0771,0.0,0.856,0.474,4,178.118,0,252347,4
+"Beyoncé, Jazze Pha, Cedkeyz",Ring The Alarm - Jazze Pha Remix,Ring The Alarm (Urban Mixes),False,"pop, r&b",2006-10-31,62LIkWt4XFhd9fPo6dwVi9,0.604,0.51,0.593,-5.402,0.0323,0.000985,0.266,0.353,4,85.338,0,227120,4
+"Beyoncé, Derek ""Grizz"" Edwards",Ring The Alarm - Grizz Remix,Ring The Alarm (Urban Mixes),False,"pop, r&b",2006-10-31,4yt2a5wOXtQ79nXa5Lzl1d,0.641,0.344,0.855,-6.306,0.00522,1.04e-06,0.864,0.381,9,85.435,1,212173,4
+"Beyoncé, Freemasons",Ring The Alarm - Freemasons Club Mix,Ring The Alarm (Dance Mixes),False,"pop, r&b",2006-10-31,6d8D0OKT1qlXoyDTcGFDDq,0.675,0.95,0.897,-4.136,0.00927,0.726,0.0487,0.0528,7,130.002,1,513800,4
+"Beyoncé, Achilles Sparta, Peter Krajczar",Ring The Alarm - Karmatronic Remix,Ring The Alarm (Dance Mixes),False,"pop, r&b",2006-10-31,0kg8DbvGDf3XZzHsVn2vwQ,0.708,0.23,0.932,-5.736,0.000381,0.073,0.207,0.266,2,137.967,1,199467,4
+Beyoncé,Ring The Alarm - Migtight Remix,Ring The Alarm (Dance Mixes),False,"pop, r&b",2006-10-31,7HWd1jWeGLS0lxv4QRqCtP,0.633,0.405,0.649,-6.134,0.0957,5.72e-06,0.127,0.31,2,216.788,1,199840,4
+Beyoncé,Ring The Alarm,Ring The Alarm,False,"pop, r&b",2006-10-17,0Vc4FpaNlhtcfYu3OqwGhg,0.54,0.461,0.745,-8.352,0.0411,0.000137,0.1,0.481,2,113.571,1,206013,5
+Beyoncé,Ring The Alarm - Instrumental,Ring The Alarm,False,"pop, r&b",2006-10-17,0uVlJldvBkXNgrVmqSsDW3,0.504,0.358,0.71,-9.607,0.00521,0.903,0.124,0.23,2,170.651,1,205107,4
+"Beyoncé, Achilles Sparta, Peter Krajczar",Ring The Alarm - Karmatronic Remix,Ring The Alarm,False,"pop, r&b",2006-10-17,0DPHWr8SAeZ0Px1xAiVSbo,0.706,0.218,0.932,-5.748,0.000404,0.0492,0.18,0.248,2,137.985,1,199613,4
+Beyoncé,Ring The Alarm - Migtight Remix,Ring The Alarm,False,"pop, r&b",2006-10-17,0XupM3nG5E02OW9fwsWhJv,0.83,0.403,0.641,-6.114,0.0938,3.09e-06,0.114,0.201,2,108.363,1,199733,4
+"Beyoncé, Collie Buddz, The Tranzformas",Ring The Alarm (feat. Collie Buddz),Ring The Alarm,False,"pop, r&b",2006-10-17,5DPL5vQeNSDfP0R56v9glI,0.572,0.579,0.936,-5.03,0.0633,0.0,0.846,0.46,4,178.233,0,252280,4
+"Beyoncé, Jazze Pha, Cedkeyz",Ring The Alarm - Jazze Pha Remix,Ring The Alarm,False,"pop, r&b",2006-10-17,5C0a9D8Erdmdp9JL17Xyzm,0.596,0.501,0.6,-5.391,0.0402,0.000509,0.304,0.357,4,84.305,0,226960,4
+"Beyoncé, Derek ""Grizz"" Edwards",Ring The Alarm - Grizz Remix,Ring The Alarm,False,"pop, r&b",2006-10-17,2xgj6uRFCFLN06sM9dutuH,0.623,0.365,0.856,-6.121,0.00409,3.52e-06,0.867,0.312,1,85.471,0,212200,4
+"Beyoncé, Shakira",Beautiful Liar - Freemasons Remix Edit,Beautiful Liar (Freemasons Remix Edit),False,"pop, r&b",2006-08-18,4VRUhzkwxPLoDZ1CJXXLkz,0.592,0.605,0.908,-5.271,0.000463,0.0151,0.0746,0.0308,8,125.984,1,207360,4
+"Beyoncé, JAY-Z",Deja Vu (feat. Jay-Z),Deja Vu (feat. Jay-Z),False,"pop, r&b",2006-08-05,6JjBYAT9eiS1LEtav863Ru,0.763,0.362,0.728,-4.944,0.00677,1.22e-05,0.0915,0.326,7,105.923,1,239960,4
+"Beyoncé, JAY-Z, Russell Small, James Wiltshire",Deja Vu (feat. Jay-Z) - Freemasons Radio Mix,Deja Vu (feat. Jay-Z),False,"pop, r&b",2006-08-05,4kf8eko93JWjalETh1O2Xu,0.708,0.886,0.978,-2.992,0.0264,0.000489,0.274,0.0541,7,126.03,0,195293,4
+"Beyoncé, Voltio, Bama Boyz",Check On It (feat. Voltio) - Bama Boyz Reggaeton Remix,Check On It (feat. Voltio),False,"pop, r&b",2006-02-28,3OBSkJgaoQAM2vNpg6070c,0.758,0.869,0.751,-4.985,0.0635,0.0,0.0922,0.145,2,89.943,1,208293,4
+"Beyoncé, Bama Boyz",Check On It - Bama Boyz Reggaeton Remix Instrumental,Check On It (feat. Voltio),False,"pop, r&b",2006-02-28,4dP3cD278R8DBKbS1EE92h,0.69,0.63,0.609,-7.677,0.000572,0.932,0.0384,0.126,11,179.936,0,208027,4
+"Beyoncé, Bun B, Slim Thug",Check On It (feat. Bun B & Slim Thug),Check On It (Remix 5 Pak) (feat. Bun B & Slim Thug),False,"pop, r&b",2006-01-31,56mAv6TVHL4QXcD4B4Ezvg,0.707,0.922,0.881,-4.066,0.0782,0.0,0.388,0.249,7,166.02,1,210707,4
+"Beyoncé, Slim Thug, Junior Vasquez",Check On It (feat. Slim Thug) - Junior Vasquez Club Mix,Check On It (Remix 5 Pak) (feat. Bun B & Slim Thug),False,"pop, r&b",2006-01-31,30rb2ieG7BD0xpGU89en1f,0.689,0.645,0.977,-4.825,0.0609,0.479,0.0644,0.0653,11,130.011,0,511387,4
+"Beyoncé, Slim Thug, Maurice Joshua",Check On It (feat. Slim Thug) - Maurice's Nu Soul Mix,Check On It (Remix 5 Pak) (feat. Bun B & Slim Thug),False,"pop, r&b",2006-01-31,65NpACLdVSM0GeatAksuTi,0.801,0.967,0.849,-6.403,0.00449,0.000465,0.0373,0.0416,11,130.004,0,359413,4
+"Beyoncé, Slim Thug, Maurice Joshua",Check On It (feat. Slim Thug) - King Klub Mix,Check On It (Remix 5 Pak) (feat. Bun B & Slim Thug),False,"pop, r&b",2006-01-31,7akK6Fiztqgh8SvgCtbkXE,0.793,0.576,0.847,-6.476,0.000559,0.00427,0.0561,0.0373,2,129.994,1,408173,4
+"Beyoncé, Bun B, Slim Thug, Bama Boyz",Check On It (feat. Bun B & Slim Thug),Check On It (Remix 5 Pak) (feat. Bun B & Slim Thug),False,"pop, r&b",2006-01-31,7byWBvitPVbnTX6M7AyM2s,0.718,0.503,0.733,-5.401,0.0141,0.0,0.308,0.297,2,166.06,1,234333,4
+"Beyoncé, JAY-Z",Deja Vu (feat. Jay-Z),Deja Vu (feat. Jay-Z),False,"pop, r&b",2006-01-01,1DN9QmcCfImicRfZtHxHKH,0.743,0.348,0.745,-4.948,0.00837,4.84e-05,0.0851,0.332,7,105.873,1,239960,4
+"Beyoncé, JAY-Z, Russell Small, James Wiltshire",Deja Vu (feat. Jay-Z) - Freemasons Radio Mix,Deja Vu (feat. Jay-Z),False,"pop, r&b",2006-01-01,7F4TdWqvFNvvKhpfw0zAyA,0.69,0.896,0.961,-4.344,0.00872,0.000348,0.297,0.0701,0,126.045,0,195307,4
+"Beyoncé, Russell Small, James Wiltshire",Deja Vu - Freemasons Club Mix,Deja Vu (feat. Jay-Z),False,"pop, r&b",2006-01-01,4pUG4J6YW512tNPYbQiRw4,0.719,0.873,0.931,-5.394,0.00148,0.625,0.371,0.0466,7,126.004,0,485147,4
+"Beyoncé, Maurice Joshua",Deja Vu - Maurice's Nusoul Mix,Deja Vu (feat. Jay-Z),False,"pop, r&b",2006-01-01,5X94ovgjRsl0Oza16yo2mG,0.845,0.884,0.708,-7.124,0.00188,0.297,0.0268,0.0626,8,126.001,1,360773,4
+"Beyoncé, Maurice Joshua",Deja Vu - Maurice's Nusoul Mixshow Mix,Deja Vu (feat. Jay-Z),False,"pop, r&b",2006-01-01,0HTeshY4n11xTIOifV85V6,0.831,0.42,0.88,-5.6,0.0146,0.417,0.0614,0.0671,8,131.014,1,357693,4
+"Beyoncé, Lil' Flip",Naughty Girl (feat. Lil' Flip),Naughty Girl (featuring Lil' Flip),False,"pop, r&b",2004-06-01,2j9wIalfUOk9a0qoHm6YRW,0.529,0.795,0.541,-7.758,0.261,0.0,0.0839,0.3,6,199.501,0,247107,4
+Beyoncé,Naughty Girl,Naughty Girl,False,"pop, r&b",2004-05-18,3E1Axr4kWMkhAhJM3S2EJ3,0.591,0.648,0.462,-8.693,0.224,1.22e-05,0.0857,0.166,6,200.042,0,208467,4
+"Beyoncé, Bilal",Everything I Do,Naughty Girl,False,"pop, r&b",2004-05-18,3Us8doP9Meoqjfl1f27oBB,0.567,0.532,0.557,-6.805,0.327,0.0,0.177,0.116,7,88.957,1,261000,4
+Beyoncé,The Star Spangled Banner - Super Bowl XXXVIII Performance A Cappella,The Star Spangled Banner - Super Bowl XXXVIII Performance,False,"pop, r&b",2004-02-01,6TETYLUOA4VClpkxl79Lcc,0.195,0.255,0.326,-11.412,0.834,5.05e-06,0.408,0.0419,2,78.444,1,154667,4
+Beyoncé,"Me, Myself and I - Radio Edit","Me, Myself And I",False,"pop, r&b",2003-10-28,3cPqQp5ZWwUiUTnaNMeFSZ,0.761,0.512,0.476,-8.852,0.279,1.66e-05,0.126,0.102,1,83.597,1,238107,4
+"Beyoncé, Junior Vasquez",Krazy In Luv - Junior's Dance Radio Mix,"Me, Myself And I",False,"pop, r&b",2003-10-28,6VfydFn17hf31kcl22KR7u,0.719,0.547,0.936,-5.258,0.00709,0.408,0.101,0.0486,7,130.033,0,219160,4
+"Beyoncé, JAY-Z",Crazy In Love (feat. Jay-Z),Crazy In Love (featuring Jay-Z),False,"pop, r&b",2003-05-20,19lLzX7vt4BhrSOaHeRyn7,0.656,0.7,0.767,-6.607,0.00248,0.0,0.0688,0.21,2,99.201,0,236120,4
+Beyoncé,Work It Out - New Radio Edit,Work It Out,False,"pop, r&b",2002-06-17,3hBf0RhTUX3qKJFKaagnIg,0.674,0.96,0.838,-4.066,0.417,0.0,0.189,0.2,5,173.946,1,221773,4
+"Beyoncé, Victor Calderone, Mac Quayle",Work It Out - Blow Your Horn Dub,Work It Out,False,"pop, r&b",2002-06-17,7t8C85BFp6CwB3PS8Wao1D,0.725,0.295,0.783,-6.275,0.00439,0.682,0.143,0.0537,11,129.976,0,597520,4
+"Beyoncé, Azza",Work It Out - Azza's Nu Soul Mix,Work It Out,False,"pop, r&b",2002-06-17,4E82n1R43NJJ2M5A0I5IS1,0.552,0.74,0.728,-6.6,0.184,0.000564,0.0868,0.331,2,86.902,1,287200,4
+"Beyoncé, Maurice Joshua",Work It Out - Maurice's Nu Soul Mix,Work It Out,False,"pop, r&b",2002-06-17,3iqTyC2c1sincQjj5t3Fdo,0.832,0.646,0.651,-6.926,0.0011,0.562,0.352,0.049,5,126.013,0,430613,4
